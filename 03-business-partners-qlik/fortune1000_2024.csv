@@ -1,0 +1,501 @@
+Rank,Company,Ticker,Sector,Industry,Profitable,Founder_is_CEO,FemaleCEO,Growth_in_Jobs,Change_in_Rank,Gained_in_Rank,Dropped_in_Rank,Newcomer_to_the_Fortune500,Global500,Worlds_Most_Admired_Companies,Best_Companies_to_Work_For,Number_of_employees,MarketCap_March28_M,Revenues_M,RevenuePercentChange,Profits_M,ProfitsPercentChange,Assets_M,CEO,HeadquartersCity,HeadquartersState
+1,Walmart,WMT,Retailing,General Merchandisers,yes,no,no,no,0,no,no,no,yes,yes,yes,2100000,484852.8,648125,6,15511,32.8,252399,C. Douglas McMillon,Bentonville,Arkansas
+2,Amazon,AMZN,Retailing,Internet Services and Retailing,yes,no,no,no,0,no,no,no,yes,yes,no,1525000,1873675.8,574785,11.8,30425,,527854,Andrew R. Jassy,Seattle,Washington
+3,Apple,AAPL,Technology,"Computers, Office Equipment",yes,no,no,no,1,yes,no,no,yes,yes,no,161000,2647973.8,383285,-2.8,96995,-2.8,352583,Timothy D. Cook,Cupertino,California
+4,UnitedHealth Group,UNH,Health Care,Health Care: Insurance and Managed Care,yes,no,no,yes,1,yes,no,no,yes,yes,no,440000,456080.8,371622,14.6,22381,11.2,273720,Andrew P. Witty,Minnetonka,Minnesota
+5,Berkshire Hathaway,BRKA,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,2,yes,no,no,yes,yes,no,396500,908919.7,364482,20.7,96223,,1069978,Warren E. Buffett,Omaha,Nebraska
+6,CVS Health,CVS,Health Care,Health Care: Pharmacy and Other Services,yes,no,yes,no,0,no,no,no,yes,yes,no,259500,100373.9,357776,10.9,8344,101.1,249728,Karen S. Lynch,Woonsocket,Rhode Island
+7,Exxon Mobil,XOM,Energy,Petroleum Refining,yes,no,no,no,-4,no,yes,no,yes,no,no,61500,461222.2,344582,-16.7,36010,-35.4,376317,Darren W. Woods,Spring,Texas
+8,Alphabet,GOOGL,Technology,Internet Services and Retailing,yes,no,no,no,0,no,no,no,yes,yes,no,182502,1884633,307394,8.7,73795,23,402392,Sundar Pichai,Mountain View,California
+9,McKesson,MCK,Health Care,Wholesalers: Health Care,yes,no,no,no,0,no,no,no,yes,no,no,48000,70546.5,276711,4.8,3560,219.6,62320,Brian S. Tyler,Irving,Texas
+10,Cencora,COR,Health Care,Wholesalers: Health Care,yes,no,no,yes,1,yes,no,no,yes,no,no,44000,48472.1,262173.4,9.9,1745.3,2.7,62558.7,Steven H. Collis,Conshohocken,Pennsylvania
+11,Costco Wholesale,COST,Retailing,General Merchandisers,yes,no,no,yes,1,yes,no,no,yes,yes,no,316000,324924.4,242290,6.8,6292,7.7,68994,Ron M. Vachris,Issaquah,Washington
+12,JPMorgan Chase,JPM,Financials,Commercial Banks,yes,no,no,yes,11,yes,no,no,yes,yes,no,309926,576938.4,239425,54.7,49552,31.5,3875393,James Dimon,New York,New York
+13,Microsoft,MSFT,Technology,Computer Software,yes,no,no,no,0,no,no,no,yes,yes,no,221000,3126133.1,211915,6.9,72361,-0.5,411976,Satya Nadella,Redmond,Washington
+14,Cardinal Health,CAH,Health Care,Wholesalers: Health Care,yes,no,no,yes,0,no,no,no,yes,no,no,47520,27217.8,205012,13,261,,43417,Jason M. Hollar,Dublin,Ohio
+15,Chevron,CVX,Energy,Petroleum Refining,yes,no,no,yes,-5,no,yes,no,yes,no,no,45600,292965.6,200949,-18.4,21369,-39.7,261632,Michael K. Wirth,San Ramon,California
+16,Cigna,CI,Health Care,Health Care: Pharmacy and Other Services,yes,no,no,yes,-1,no,yes,no,yes,no,no,71413,103017.9,195265,8.2,5164,-22.6,152761,David M. Cordani,Bloomfield,Connecticut
+17,Ford Motor,F,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,yes,2,yes,no,no,yes,no,no,177000,53017.8,176191,11.5,4347,,273310,James D. Farley Jr.,Dearborn,Michigan
+18,Bank of America,BAC,Financials,Commercial Banks,yes,no,no,no,14,yes,no,no,yes,yes,yes,212985,299213,171912,49.4,26515,-3.7,3180151,Brian T. Moynihan,Charlotte,North Carolina
+19,General Motors,GM,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,yes,no,2,yes,no,no,yes,no,no,163000,52353.5,171842,9.6,10127,1.9,273064,Mary T. Barra,Detroit,Michigan
+20,Elevance Health,ELV,Health Care,Health Care: Insurance and Managed Care,yes,no,yes,yes,2,yes,no,no,yes,yes,yes,104900,120619.6,171340,9.4,5987,-0.6,108928,Gail K. Boudreaux,Indianapolis,Indiana
+21,Citigroup,C,Financials,Commercial Banks,yes,no,yes,no,15,yes,no,no,yes,no,no,237925,121122.2,156820,55.1,9228,-37.8,2411834,Jane Fraser,New York,New York
+22,Centene,CNC,Health Care,Health Care: Insurance and Managed Care,yes,no,yes,no,3,yes,no,no,yes,yes,no,67700,41979.4,153999,6.5,2702,124.8,84641,Sarah M. London,St. Louis,Missouri
+23,Home Depot,HD,Retailing,Specialty Retailers: Other,yes,no,no,no,-3,no,yes,no,yes,yes,no,463100,380153.7,152669,-3,15143,-11.5,76530,Edward P. Decker,Atlanta,Georgia
+24,Marathon Petroleum,MPC,Energy,Petroleum Refining,yes,no,no,yes,-8,no,yes,no,yes,no,no,18200,72607.7,150307,-16.5,9681,-33.3,85987,Maryann T. Mannen,Findlay,Ohio
+25,Kroger,KR,Food & Drug Stores,Food & Drug Stores,yes,no,no,no,-1,no,yes,no,yes,no,no,414000,41100.7,150039,1.2,2164,-3.6,50505,W. Rodney McMullen,Cincinnati,Ohio
+26,Phillips 66,PSX,Energy,Petroleum Refining,yes,no,no,yes,-9,no,yes,no,yes,no,no,14000,69880.8,149890,-14.7,7015,-36.4,75501,Mark E. Lashier,Houston,Texas
+27,Fannie Mae,FNMA,Financials,Diversified Financials,yes,no,yes,yes,1,yes,no,no,yes,no,no,8100,1818.2,141240,16.2,17408,34.7,4325437,Priscilla Almodovar,Washington,District Of Columbia
+28,Walgreens Boots Alliance,WBA,Food & Drug Stores,Food & Drug Stores,no,no,no,yes,-1,no,yes,no,yes,no,no,268500,18712.3,139081,4.8,-3080,-171,96628,Timothy Wentworth,Deerfield,Illinois
+29,Valero Energy,VLO,Energy,Petroleum Refining,yes,no,no,yes,-11,no,yes,no,yes,no,no,9897,56234.5,139001,-18.8,8835,-23.4,63056,R. Lane Riggs,San Antonio,Texas
+30,Meta Platforms,META,Technology,Internet Services and Retailing,yes,yes,no,no,1,yes,no,no,yes,yes,no,67317,1237940.1,134902,15.7,39098,68.5,229623,Mark Zuckerberg,Menlo Park,California
+31,Verizon Communications,VZ,Telecommunications,Telecommunications,yes,no,no,no,-5,no,yes,no,yes,yes,no,105400,176651.6,133974,-2.1,11614,-45.4,380255,Hans E. Vestberg,New York,New York
+32,AT&T,T,Telecommunications,Telecommunications,yes,no,no,no,-2,no,yes,no,yes,yes,no,150470,125889.1,122428,1.4,14400,,407060,John T. Stankey,Dallas,Texas
+33,Comcast,CMCSA,Telecommunications,Telecommunications,yes,no,no,no,-4,no,yes,no,yes,yes,yes,186000,172180,121572,0.1,15388,186.6,264811,Brian L. Roberts,Philadelphia,Pennsylvania
+34,Wells Fargo,WFC,Financials,Commercial Banks,yes,no,no,no,13,yes,no,no,yes,no,no,226000,205201.8,115340,39.2,19142,45.2,1932468,Charles W. Scharf,San Francisco,California
+35,Goldman Sachs Group,GS,Financials,Commercial Banks,yes,no,no,no,20,yes,no,no,yes,yes,no,45300,135551.7,108418,57.8,8516,-24.4,1641594,David M. Solomon,New York,New York
+36,Freddie Mac,FMCC,Financials,Diversified Financials,yes,no,no,yes,9,yes,no,no,yes,no,no,8020,877.6,108050,24.6,10538,13,3280976,Michael T. Hutchins,McLean,Virginia
+37,Target,TGT,Retailing,General Merchandisers,yes,no,no,no,-4,no,yes,no,yes,yes,yes,415000,81816.1,107412,-1.6,4138,48.8,55356,Brian C. Cornell,Minneapolis,Minnesota
+38,Humana,HUM,Health Care,Health Care: Insurance and Managed Care,yes,no,no,yes,4,yes,no,no,yes,yes,no,67600,41796.7,106374,14.5,2489,-11.3,47065,James A. Rechtin,Louisville,Kentucky
+39,State Farm Insurance,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,yes,5,yes,no,no,yes,no,no,65054,,104198.6,16.6,-6272.3,,339484.7,Michael L. Tipsord,Bloomington,Illinois
+40,Tesla,TSLA,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,yes,no,yes,10,yes,no,no,yes,no,no,140473,559854.3,96773,18.8,14997,19.4,106618,Elon Musk,Austin,Texas
+41,Morgan Stanley,MS,Financials,Commercial Banks,yes,no,no,no,20,yes,no,no,yes,yes,no,80006,153976.9,96194,45.9,9087,-17.6,1193693,Edward N. Pick,New York,New York
+42,Johnson & Johnson,JNJ,Health Care,Pharmaceuticals,yes,no,no,no,-2,no,yes,no,yes,yes,no,131900,381203.6,95195,0.3,35153,95.9,167558,Joaquin Duato,New Brunswick,New Jersey
+43,Archer Daniels Midland,ADM,"Food, Beverages & Tobacco",Food Production,yes,no,no,no,-8,no,yes,no,yes,yes,no,41008,32023.6,93935,-7.5,3483,-19.7,54631,Juan R. Luciano,Chicago,Illinois
+44,PepsiCo,PEP,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,yes,2,yes,no,no,yes,yes,no,318000,240552.8,91471,5.9,9074,1.8,100495,Ramon L. Laguarta,Purchase,New York
+45,United Parcel Service,UPS,Transportation,"Mail, Package, and Freight Delivery",yes,no,yes,no,-8,no,yes,no,yes,yes,no,382550,126828.9,90958,-9.3,6708,-41.9,70857,Carol B. Tom?,Atlanta,Georgia
+46,FedEx,FDX,Transportation,"Mail, Package, and Freight Delivery",yes,no,no,no,-5,no,yes,no,yes,yes,no,446400,71299.4,90155,-3.6,3972,3.8,87143,Rajesh Subramaniam,Memphis,Tennessee
+47,Walt Disney,DIS,Media,Entertainment,yes,no,no,yes,1,yes,no,no,yes,yes,no,199125,224445.2,88898,7.5,2354,-25.2,205579,Robert A. Iger,Burbank,California
+48,Dell Technologies,DELL,Technology,"Computers, Office Equipment",yes,yes,no,no,-14,no,yes,no,yes,yes,no,120000,81450.6,88425,-13.6,3211,31.5,82089,Michael S. Dell,Round Rock,Texas
+49,Lowe's,LOW,Retailing,Specialty Retailers: Other,yes,no,no,no,-10,no,yes,no,yes,yes,no,226000,145752.5,86377,-11,7726,20,41795,Marvin R. Ellison,Mooresville,North Carolina
+50,Procter & Gamble,PG,Household Products,Household and Personal Products,yes,no,no,yes,1,yes,no,no,yes,yes,no,107000,381777.7,82006,2.3,14653,-0.6,120829,Jon R. Moeller,Cincinnati,Ohio
+51,Energy Transfer,ET,Energy,Pipelines,yes,no,no,yes,-8,no,yes,no,yes,no,no,13786,52974.8,78586,-12.6,3935,-17.3,113698,Thomas E. Long/Marshall S. McCrea III,Dallas,Texas
+52,Boeing,BA,Aerospace & Defense,Aerospace & Defense,no,no,no,yes,6,yes,no,no,yes,yes,no,171000,117750,77794,16.8,-2222,,137012,Kelly K. Ortberg,Arlington,Virginia
+53,Albertsons,ACI,Food & Drug Stores,Food & Drug Stores,yes,no,no,yes,0,no,no,no,yes,no,no,198650,12350.3,77649.7,8,1513.5,-6.6,26168.2,Vivek Sankaran,Boise,Idaho
+54,Sysco,SYY,Wholesalers,Wholesalers: Food and Grocery,yes,no,no,yes,2,yes,no,no,yes,no,no,71750,40413.8,76324.7,11.2,1770.1,30.3,22821.1,Kevin P. Hourican,Houston,Texas
+55,RTX,RTX,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,2,yes,no,no,yes,yes,no,185000,129680.3,68920,2.8,3195,-38.5,161869,Christopher T. Calio,Arlington,Virginia
+56,General Electric,GE,Industrials,Industrial Machinery,yes,no,no,no,-4,no,yes,no,yes,no,no,125000,191901.2,67954,-11.2,9481,4113.8,163045,H. Lawrence Culp Jr.,Boston,Massachusetts
+57,Lockheed Martin,LMT,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,3,yes,no,no,yes,yes,no,122000,109394.2,67571,2.4,6920,20.7,52456,James D. Taiclet Jr.,Bethesda,Maryland
+58,American Express,AXP,Financials,Diversified Financials,yes,no,no,no,19,yes,no,no,yes,yes,yes,74600,163945.6,67364,21.1,8374,11.4,261108,Stephen J. Squeri,New York,New York
+59,Caterpillar,CAT,Industrials,Construction and Farm Machinery,yes,no,no,yes,9,yes,no,no,yes,yes,no,113200,182986.8,67060,12.8,10335,54.1,87476,D. James Umpleby III,Irving,Texas
+60,MetLife,MET,Financials,"Insurance: Life, Health (stock)",yes,no,no,no,-6,no,yes,no,yes,yes,yes,45000,53583,66905,-4.3,1578,-37.8,687584,Michel A. Khalaf,New York,New York
+61,HCA Healthcare,HCA,Health Care,Health Care: Medical Facilities,yes,no,no,yes,5,yes,no,no,yes,yes,no,265000,88213.8,64968,7.9,5242,-7.1,56211,Samuel N. Hazen,Nashville,Tennessee
+62,Progressive,PGR,Financials,Insurance: Property and Casualty (Stock),yes,no,yes,yes,26,yes,no,no,yes,yes,yes,61432,121134.1,62108.5,25.2,3902.4,440.9,88690.8,Susan Patricia  Griffith,Mayfield Village,Ohio
+63,IBM,IBM,Technology,Information Technology Services,yes,no,no,no,2,yes,no,no,yes,yes,no,296600,175061.6,61860,2.2,7502,357.7,135241,Arvind Krishna,Armonk,New York
+64,Deere,DE,Industrials,Construction and Farm Machinery,yes,no,no,yes,17,yes,no,no,yes,yes,no,82956,114332.9,61251,16.5,10166,42.6,104087,John C. May,Moline,Illinois
+65,Nvidia,NVDA,Technology,Semiconductors and Other Electronic Components,yes,yes,no,yes,87,yes,no,no,no,yes,yes,29600,2258900,60922,125.9,29760,581.3,65728,Jensen Huang,Santa Clara,California
+66,StoneX Group,SNEX,Financials,Diversified Financials,yes,no,no,yes,-7,no,yes,no,yes,no,no,4137,2216.7,60856.1,-7.8,238.5,15.2,21938.7,Sean M. O'Connor,New York,New York
+67,Merck,MRK,Health Care,Pharmaceuticals,yes,no,no,yes,2,yes,no,no,yes,yes,yes,71000,334182.4,60115,1.4,365,-97.5,106675,Robert M. Davis,Rahway,New Jersey
+68,ConocoPhillips,COP,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-19,no,yes,no,yes,no,no,9900,149733.3,58574,-28.7,10957,-41.3,95924,Ryan M. Lance,Houston,Texas
+69,Pfizer,PFE,Health Care,Pharmaceuticals,yes,no,no,yes,-31,no,yes,no,yes,yes,no,88000,157135.5,58496,-41.7,2119,-93.2,226501,Albert Bourla,New York,New York
+70,Delta Air Lines,DAL,Transportation,Airlines,yes,no,no,yes,15,yes,no,no,yes,yes,yes,103000,30795.9,58048,14.8,4609,249.7,73644,Edward H. Bastian,Atlanta,Georgia
+71,TD Synnex,SNX,Wholesalers,Wholesalers: Electronics and Office Equipment,yes,no,no,no,-7,no,yes,no,yes,yes,no,28000,9856.6,57555.4,-7.7,626.9,-3.7,29412.8,Patrick  Zammit/Richard T. Hume,Fremont,California
+72,Publix Super Markets,PFE,Food & Drug Stores,Food & Drug Stores,yes,no,no,yes,6,yes,no,no,yes,yes,yes,253000,,57534,4.7,4349,49,34384,Kevin S. Murphy,Lakeland,Florida
+73,Allstate,ALL,Financials,Insurance: Property and Casualty (Stock),no,no,no,no,11,yes,no,no,yes,yes,no,53200,45513.3,57094,11.1,-188,,103362,Thomas J. Wilson,Northbrook,Illinois
+74,Cisco Systems,CSCO,Technology,Network and Other Communications Equipment,yes,no,no,yes,8,yes,no,no,yes,no,yes,84900,202094.9,56998,10.6,12613,6.8,101852,Charles H. Robbins,San Jose,California
+75,Nationwide,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,no,8,yes,no,no,yes,no,yes,24118,,54609.4,6.1,-45.2,-104.6,290615,Kirt A. Walker,Columbus,Ohio
+76,Charter Communications,CHTR,Telecommunications,Telecommunications,yes,no,no,no,3,yes,no,no,yes,no,no,101100,51316,54607,1.1,4557,-9.9,147193,Christopher L. Winfrey,Stamford,Connecticut
+77,AbbVie,ABBV,Health Care,Pharmaceuticals,yes,no,no,no,-4,no,yes,no,yes,yes,yes,50000,322434.8,54318,-6.4,4863,-58.9,134711,Robert A. Michael,North Chicago,Illinois
+78,New York Life Insurance,,Financials,"Insurance: Life, Health (Mutual)",yes,no,no,yes,-7,no,yes,no,yes,yes,no,15384,,54317.2,-7.1,804.6,,408904.9,Craig DeSanto,New York,New York
+79,Intel,INTC,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,-17,no,yes,no,yes,no,no,124800,188026,54228,-14,1689,-78.9,191572,Patrick P. Gelsinger,Santa Clara,California
+80,TJX,TJX,Retailing,Specialty Retailers: Apparel,yes,no,no,yes,7,yes,no,no,yes,yes,no,349000,115586,54217,8.6,4474,27.9,29747,Ernie L. Herrman,Framingham,Massachusetts
+81,Prudential Financial,PRU,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,-14,no,yes,no,yes,yes,no,40366,42191.2,53979,-10.1,2488,,721123,Charles F. Lowrey,Newark,New Jersey
+82,HP,HPQ,Technology,"Computers, Office Equipment",yes,no,no,no,-19,no,yes,no,yes,yes,yes,58000,29569.7,53718,-14.6,3263,4.2,37004,Enrique J. Lores,Palo Alto,California
+83,United Airlines Holdings,UAL,Transportation,Airlines,yes,no,no,yes,13,yes,no,no,yes,yes,no,103300,15705.9,53717,19.5,2618,255.2,71104,J. Scott Kirby,Chicago,Illinois
+84,Performance Food Group,PFGC,Wholesalers,Wholesalers: Food and Grocery,yes,no,no,no,7,yes,no,no,yes,no,no,34825,11612.9,53354.7,13.1,397.2,253.1,12499,George L. Holm,Richmond,Virginia
+85,Tyson Foods,TSN,"Food, Beverages & Tobacco",Food Production,no,no,no,no,-5,no,yes,no,yes,no,no,139000,20928.3,52881,-0.8,-648,-120,36251,Donnie D. King,Springdale,Arkansas
+86,American Airlines Group,AAL,Transportation,Airlines,yes,no,no,yes,3,yes,no,no,yes,no,no,132100,10050.5,52788,7.8,822,547.2,63058,Robert D. Isom,Fort Worth,Texas
+87,Liberty Mutual Insurance Group,,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,-1,no,yes,no,yes,no,no,45000,,52612,5.3,213,-48.6,165208,Timothy M. Sweeney,Boston,Massachusetts
+88,Nike,NKE,Apparel,Apparel,yes,no,no,yes,5,yes,no,no,yes,yes,no,83700,142391.2,51217,9.6,5070,-16.1,37531,John J. Donahoe II,Beaverton,Oregon
+89,Oracle,ORCL,Technology,Computer Software,yes,no,yes,yes,12,yes,no,no,yes,yes,no,164000,345240.8,49954,17.7,8503,26.6,134384,Safra A. Catz,Austin,Texas
+90,Enterprise Products Partners,EPD,Energy,Pipelines,yes,no,no,yes,-18,no,yes,no,yes,no,no,7500,63269.4,49715,-14.6,5532,0.8,70982,A. James Teague/W. Randall Fowler,Houston,Texas
+91,Capital One Financial,COF,Financials,Commercial Banks,yes,yes,no,no,15,yes,no,no,yes,yes,yes,51987,56891.2,49484,29,4887,-33.6,478464,Richard D. Fairbank,McLean,Virginia
+92,Plains GP Holdings,PAGP,Energy,Pipelines,yes,no,no,yes,-18,no,yes,no,yes,no,no,4200,3597.5,48712,-15.1,198,17.9,28597,Wilfred C.W. Chiang,Houston,Texas
+93,World Kinect,WKC,Energy,Energy,yes,no,no,yes,-23,no,yes,no,yes,no,no,5289,1583,47710.6,-19.2,52.9,-53.6,7375.3,Michael J. Kasbar,Miami,Florida
+94,AIG,AIG,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,-18,no,yes,no,yes,no,no,25200,53230.1,46802,-17.1,3643,-64.5,539306,Peter S. Zaffino,New York,New York
+95,Coca-Cola,KO,"Food, Beverages & Tobacco",Beverages,yes,no,no,no,5,yes,no,no,yes,yes,no,79100,263758.6,45754,6.4,10714,12.3,97703,James R. Quincey,Atlanta,Georgia
+96,TIAA,,Financials,"Insurance: Life, Health (Mutual)",no,no,yes,no,7,yes,no,no,yes,yes,no,16023,,45734.8,11.8,-1408.9,-385.4,629369.9,Thasunda Brown Duckett,New York,New York
+97,CHS,,"Food, Beverages & Tobacco",Food Production,yes,no,no,yes,-7,no,yes,no,yes,no,no,10609,,45590,-4.6,1900.4,13.2,18957.4,Jay D. Debertin,Inver Grove Heights,Minnesota
+98,Bristol-Myers Squibb,BMY,Health Care,Pharmaceuticals,yes,no,no,no,-3,no,yes,no,yes,yes,no,34100,109911.1,45006,-2.5,8025,26.8,95159,Christopher S. Boerner,Princeton,New Jersey
+99,Dow,DOW,Chemicals,Chemicals,yes,no,no,no,-24,no,yes,no,yes,yes,yes,35900,40740.3,44622,-21.6,589,-87.1,57967,James R. Fitterling,Midland,Michigan
+100,Best Buy,BBY,Retailing,Specialty Retailers: Other,yes,no,yes,yes,-6,no,yes,no,yes,yes,no,85000,17667.7,43452,-6.1,1241,-12.5,14967,Corie S. Barry,Richfield,Minnesota
+101,Thermo Fisher Scientific,TMO,Technology,"Scientific,Photographic and  Control Equipment",yes,no,no,no,-4,no,yes,no,yes,yes,no,122000,221622.5,42857,-4.6,5995,-13.7,98726,Marc N. Casper,Waltham,Massachusetts
+102,Massachusetts Mutual Life Insurance,,Financials,"Insurance: Life, Health (Mutual)",no,no,no,yes,2,yes,no,no,yes,yes,no,11323,,42641.4,5.9,-771.6,-152,397895,Roger W. Crandall,Springfield,Massachusetts
+103,USAA,,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,11,yes,no,no,yes,yes,no,37376,,42493.4,17.1,1213.5,,211637.6,Wayne Peacock,San Antonio,Texas
+104,General Dynamics,GD,Aerospace & Defense,Aerospace & Defense,yes,no,yes,yes,1,yes,no,no,yes,yes,no,111600,77506.3,42272,7.3,3315,-2.2,54810,Phebe N. Novakovic,Reston,Virginia
+105,Travelers,TRV,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,7,yes,no,no,yes,yes,no,33133,52731,41364,12.1,2991,5.2,125978,Alan D. Schnitzer,New York,New York
+106,Warner Bros. Discovery,WBD,Media,Entertainment,no,no,no,no,12,yes,no,no,yes,no,no,35300,21298.5,41321,22.2,-3126,,122757,David M. Zaslav,New York,New York
+107,U.S. Bancorp,USB,Financials,Commercial Banks,yes,no,no,no,42,yes,no,no,no,yes,no,75465,69656.5,40624,48.3,5429,-6.8,663491,Andrew J. Cecere,Minneapolis,Minnesota
+108,Abbott Laboratories,ABT,Health Care,Medical Products and Equipment,yes,no,no,no,-9,no,yes,no,yes,yes,no,114000,197221,40109,-8.1,5723,-17.5,73214,Robert B. Ford,Abbott Park,Illinois
+109,Northrop Grumman,NOC,Aerospace & Defense,Aerospace & Defense,yes,no,yes,yes,4,yes,no,no,yes,yes,no,101000,70908.8,39290,7.3,2056,-58,46544,Kathy J. Warden,Falls Church,Virginia
+110,Northwestern Mutual,,Financials,"Insurance: Life, Health (Mutual)",yes,no,no,no,1,yes,no,no,yes,yes,no,8239,,38788.1,5.1,711.4,-22,358828.6,John E. Schlifske,Milwaukee,Wisconsin
+111,Dollar General,DG,Retailing,Specialty Retailers: Other,yes,no,no,yes,-3,no,yes,no,yes,no,no,185800,34281.9,38691.6,2.2,1661.3,-31.2,30795.6,Todd J. Vasos,Goodlettsville,Tennessee
+112,PBF Energy,PBF,Energy,Petroleum Refining,yes,no,no,yes,-20,no,yes,no,yes,no,no,3776,6860.3,38324.8,-18.2,2140.5,-25.6,14387.8,Matthew C. Lucey,Parsippany,New Jersey
+113,Uber Technologies,UBER,Technology,Internet Services and Retailing,yes,no,no,no,14,yes,no,no,yes,yes,no,30400,160258.1,37281,17,1887,,38699,Dara Khosrowshahi,San Francisco,California
+114,Honeywell International,HON,Industrials,Industrial Machinery,yes,no,no,no,1,yes,no,no,yes,yes,no,95000,133860.3,36662,3.4,5658,13.9,61525,Vimal Kapur,Charlotte,North Carolina
+115,Mondelez International,MDLZ,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,16,yes,no,no,yes,yes,no,91000,94253.4,36016,14.4,4959,82.5,71391,Dirk Van de Put,Chicago,Illinois
+116,Starbucks,SBUX,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,no,9,yes,no,no,yes,yes,no,381000,103471.8,35975.6,11.6,4124.5,25.7,29445.5,Rachel Ruggeri,Seattle,Washington
+117,Qualcomm,QCOM,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,-19,no,yes,no,yes,yes,no,50000,188938.8,35820,-19,7232,-44.1,51040,Cristiano R. Amon,San Diego,California
+118,Broadcom,AVGO,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,5,yes,no,no,yes,no,no,20000,614223.1,35819,7.9,14082,22.5,72861,Hock E. Tan,Palo Alto,California
+119,US Foods Holding,USFD,Wholesalers,Wholesalers: Food and Grocery,yes,no,no,yes,-2,no,yes,no,yes,no,no,30000,13217.4,35597,4.5,506,90.9,13187,David E. Flitman,Rosemont,Illinois
+120,D.R. Horton,DHI,Engineering & Construction,Homebuilders,yes,no,no,yes,0,no,no,no,yes,yes,no,13450,54600.5,35460.4,5.9,4745.7,-19,32582.4,Paul J. Romanowski,Arlington,Texas
+121,Philip Morris International,PM,"Food, Beverages & Tobacco",Tobacco,yes,no,no,yes,7,yes,no,no,yes,no,no,82700,142428,35174,10.7,7813,-13.6,65304,Jacek Olczak,Stamford,Connecticut
+122,Paccar,PCAR,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,yes,18,yes,no,no,no,no,no,32400,64919.7,35127.4,21.9,4600.8,52.8,40823.4,R. Preston Feight,Bellevue,Washington
+123,Salesforce,CRM,Technology,Computer Software,yes,yes,no,no,10,yes,no,no,yes,yes,yes,72682,292144.6,34857,11.2,4136,1888.5,99823,Marc R. Benioff,San Francisco,California
+124,Nucor,NUE,Materials,Metals,yes,no,no,yes,-22,no,yes,no,yes,yes,no,32000,47492,34713.5,-16.4,4524.8,-40.5,35340.5,Leon J. Topalian,Charlotte,North Carolina
+125,Jabil,JBL,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,-4,no,yes,no,yes,yes,no,236000,17084.7,34702,3.7,818,-17.9,19424,Michael K. Dastoor,St. Petersburg,Florida
+126,Lennar,LEN,Engineering & Construction,Homebuilders,yes,no,no,yes,-7,no,yes,no,yes,yes,no,12284,47374.8,34233.4,1.7,3938.5,-14.6,39234.3,Jonathan M. Jaffe/Stuart A. Miller,Miami,Florida
+127,Eli Lilly,LLY,Health Care,Pharmaceuticals,yes,no,no,yes,15,yes,no,no,no,yes,no,43000,739658,34124.1,19.6,5240.4,-16.1,64006.3,David A. Ricks,Indianapolis,Indiana
+128,Molina Healthcare,MOH,Health Care,Health Care: Insurance and Managed Care,yes,no,no,yes,-2,no,yes,no,yes,yes,no,18000,24068,34072,6.6,1091,37.8,14892,Joseph M. Zubretsky,Long Beach,California
+129,Cummins,CMI,Industrials,Industrial Machinery,yes,no,yes,yes,17,yes,no,no,no,yes,no,75500,41798.1,34065,21.3,735,-65.8,32005,Jennifer Rumsey,Columbus,Indiana
+130,Bank of New York Mellon,BK,Financials,Commercial Banks,yes,no,no,yes,71,yes,no,no,no,yes,no,53400,43380.4,33805,69.1,3286,27.7,409953,Robin Vince,New York,New York
+131,Netflix,NFLX,Media,Entertainment,yes,no,no,yes,-2,no,yes,no,yes,yes,no,13000,262827.9,33723.3,6.7,5408,20.4,48732,Ted Sarandos/Gregory K. Peters,Los Gatos,California
+132,Truist Financial,TFC,Financials,Commercial Banks,no,no,no,no,25,yes,no,no,no,no,no,49935,52022.4,33246,31.1,-1091,-117.4,535349,William H. Rogers Jr.,Charlotte,North Carolina
+133,Arrow Electronics,ARW,Wholesalers,Wholesalers: Electronics and Office Equipment,yes,no,no,no,-24,no,yes,no,yes,yes,no,22100,6988.1,33107.1,-10.8,903.5,-36.7,21726.2,Sean J. Kerins,Centennial,Colorado
+134,3M,MMM,Chemicals,Chemicals,no,no,no,no,-18,no,yes,no,yes,yes,no,85000,58695,32681,-4.5,-6995,-221.1,50580,William M. Brown,St. Paul,Minnesota
+135,Visa,V,Business Services,Financial Data Services,yes,no,no,yes,2,yes,no,no,no,yes,yes,28800,560847.5,32653,11.4,17273,15.5,90499,Ryan McInerney,San Francisco,California
+136,Apollo Global Management,APO,Financials,Securities,yes,yes,no,yes,220,yes,no,no,no,no,no,6855,63889.7,32644,180.8,5047,,313488,Marc Rowan,New York,New York
+137,HF Sinclair,DINO,Energy,Petroleum Refining,yes,no,no,no,-30,no,yes,no,yes,no,no,5218,11987.6,31964.4,-16.3,1589.7,-45.6,17716.3,Tim Go,Dallas,Texas
+138,CBRE Group,CBRE,Financials,Real estate,yes,no,no,yes,-3,no,yes,no,no,yes,no,130000,29725.9,31949,3.6,986,-29.9,22548,Robert E. Sulentic,Dallas,Texas
+139,PNC Financial Services Group,PNC,Financials,Commercial Banks,yes,no,no,no,29,yes,no,no,no,yes,no,55612,64291.8,31882,35.4,5578,-7.7,561580,William S. Demchak,Pittsburgh,Pennsylvania
+140,Lithia Motors,LAD,Retailing,"Automotive Retailing, Services",yes,no,no,yes,5,yes,no,no,no,no,no,25051,8283,31310.9,10.6,1000.8,-20,19632.5,Bryan B. DeBoer,Medford,Oregon
+141,CarMax,KMX,Retailing,"Automotive Retailing, Services",yes,no,no,no,-17,no,yes,no,yes,no,yes,30621,13756.5,31126.4,-6.2,484.8,-57.9,26182.7,William D. Nash,Richmond,Virginia
+142,Paramount Global,PARA,Media,Entertainment,no,no,no,no,-8,no,yes,no,yes,no,no,24150,8099,30610,-2.3,-608,-155.1,53543,George Cheeks/Chris McCarthy/Brian Robbins,New York,New York
+143,Dollar Tree,DLTR,Retailing,Specialty Retailers: Other,no,no,no,yes,1,yes,no,no,no,no,no,138860,29024.4,30603.8,8,-998.4,-161.8,22023.5,Richard W. Dreiling,Chesapeake,Virginia
+144,United Natural Foods,UNFI,Wholesalers,Wholesalers: Food and Grocery,yes,no,no,no,-5,no,yes,no,no,no,no,29455,682.9,30272,4.6,24,-90.3,7394,Sandy Douglas,Providence,Rhode Island
+145,PayPal Holdings,PYPL,Business Services,Financial Data Services,yes,no,no,no,3,yes,no,no,no,yes,no,27200,71796,29771,8.2,4246,75.5,82166,Alex Chriss,San Jose,California
+146,Penske Automotive Group,PAG,Retailing,"Automotive Retailing, Services",yes,no,no,yes,1,yes,no,no,no,yes,no,28000,10861,29527.4,6.2,1053.2,-23.7,15671.5,Roger S. Penske,Bloomfield Hills,Michigan
+147,Hewlett Packard Enterprise,HPE,Technology,"Computers, Office Equipment",yes,no,no,yes,-4,no,yes,no,no,yes,yes,62000,23049,29135,2.2,2025,133.3,57153,Antonio F. Neri,Spring,Texas
+148,Duke Energy,DUK,Energy,Utilities: Gas and Electric,yes,no,yes,no,-7,no,yes,no,no,yes,no,27037,74607.9,28932,0.5,2841,11.4,176893,Lynn J. Good,Charlotte,North Carolina
+149,Occidental Petroleum,OXY,Energy,"Mining, Crude-Oil Production",yes,no,yes,yes,-39,no,yes,no,yes,no,no,12570,57611.3,28918,-22,4696,-64.7,74008,Vicki A. Hollub,Houston,Texas
+150,NRG Energy,NRG,Energy,Energy,no,no,no,yes,-20,no,yes,no,yes,no,no,18131,14535.4,28823,-8.6,-202,-116.5,26038,Lawrence S. Coben,Houston,Texas
+151,Amgen,AMGN,Health Care,Pharmaceuticals,yes,no,no,yes,3,yes,no,no,no,yes,no,26700,152372.5,28190,7.1,6717,2.5,97154,Robert A. Bradway,Thousand Oaks,California
+152,NextEra Energy,NEE,Energy,Utilities: Gas and Electric,yes,no,no,yes,35,yes,no,no,no,yes,no,16800,131170.7,28114,34.2,7310,76.3,177489,John W. Ketchum,Juno Beach,Florida
+153,Danaher,DHR,Health Care,Medical Products and Equipment,yes,no,no,no,-21,no,yes,no,yes,yes,no,62000,184928.7,27602,-12.3,4764,-33.9,84488,Rainer M. Blair,Washington,District Of Columbia
+154,Gilead Sciences,GILD,Health Care,Pharmaceuticals,yes,no,no,yes,-4,no,yes,no,no,no,no,18000,91340.5,27116,-0.6,5665,23.4,62125,Daniel P. O'Day,Foster City,California
+155,AutoNation,AN,Retailing,"Automotive Retailing, Services",yes,no,no,yes,-4,no,yes,no,no,yes,no,25300,6902.1,26948.9,-0.1,1021.1,-25.9,11980,Michael M. Manley,Fort Lauderdale,Florida
+156,Kraft Heinz,KHC,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,-3,no,yes,no,no,no,no,36000,44857,26640,0.6,2855,20.8,90339,Carlos Abrams-Rivera,Chicago,Illinois
+157,Avnet,AVT,Wholesalers,Wholesalers: Electronics and Office Equipment,yes,no,no,yes,6,yes,no,no,no,yes,no,15800,4480.2,26536.9,9.2,770.8,11.3,12477.2,Philip R. Gallagher,Phoenix,Arizona
+158,Applied Materials,AMAT,Technology,Semiconductors and Other Electronic Components,yes,no,no,yes,-3,no,yes,no,no,yes,no,34000,171356,26517,2.8,6856,5.1,30729,Gary E. Dickerson,Santa Clara,California
+159,Southwest Airlines,LUV,Transportation,Airlines,yes,no,no,yes,6,yes,no,no,no,yes,no,74806,17416.6,26091,9.6,465,-13.7,36487,Robert E. Jordan,Dallas,Texas
+160,Charles Schwab,SCHW,Financials,Securities,yes,no,no,no,15,yes,no,no,no,yes,no,33000,131974.9,25521,14.4,5067,-29.5,493178,Walter W. Bettinger II,Westlake,Texas
+161,Baker Hughes,BKR,Energy,"Oil and Gas Equipment, Services",yes,no,no,yes,24,yes,no,no,no,no,no,58000,33529.5,25506,20.6,1943,,36945,Lorenzo Simonelli,Houston,Texas
+162,McDonald's,MCD,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,no,7,yes,no,no,no,yes,no,150000,203582.4,25493.7,10,8468.8,37.1,56146.8,Christopher J. Kempczinski,Chicago,Illinois
+163,Southern Company,SO,Energy,Utilities: Gas and Electric,yes,no,no,yes,-25,no,yes,no,no,yes,no,27960,78269.4,25253,-13.8,3976,12.8,139331,Christopher C. Womack,Atlanta,Georgia
+164,Mastercard,MA,Business Services,Financial Data Services,yes,no,no,yes,13,yes,no,no,no,yes,yes,33400,449252.6,25098,12.9,11195,12.7,42448,Michael Miebach,Purchase,New York
+165,Constellation Energy,CEG,Energy,Energy,yes,no,no,yes,-3,no,yes,no,no,no,no,13842,58250.1,24918,2,1623,,50758,Joseph Dominguez,Baltimore,Maryland
+166,Hartford Financial Services Group,HIG,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,8,yes,no,no,no,no,no,18700,30636.6,24527,9.7,2504,38,76780,Christopher J. Swift,Hartford,Connecticut
+167,PG&E,PCG,Energy,Utilities: Gas and Electric,yes,no,yes,yes,13,yes,no,no,no,no,no,28010,35759.5,24428,12.7,2242,24.6,125698,Patricia K. Poppe,Oakland,California
+168,Coupang,CPNG,Retailing,Internet Services and Retailing,yes,yes,no,yes,27,yes,no,no,no,no,no,78000,31903.1,24383,18.5,1360,,13346,Bom Kim,Seattle,Washington
+169,EOG Resources,EOG,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-13,no,yes,no,no,no,no,3050,73535.6,24186,-5.9,7594,-2.1,43857,Ezra Y. Yacob,Houston,Texas
+170,Union Pacific,UNP,Transportation,Railroads,yes,no,no,no,-11,no,yes,no,no,yes,no,32973,150041,24119,-3,6379,-8.8,67132,Jim Vena,Omaha,Nebraska
+171,Rite Aid,RADCQ,Food & Drug Stores,Food & Drug Stores,no,no,no,no,-10,no,yes,no,no,no,no,47000,9,24091.9,-1.9,-749.9,,7527.4,Jeffrey S. Stein,Philadelphia,Pennsylvania
+172,Macy's,M,Retailing,General Merchandisers,yes,no,no,no,-14,no,yes,no,no,no,no,85581,5482.7,23866,-5.7,105,-91.1,16246,Tony Spring,New York,New York
+173,Marriott International,MAR,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,19,yes,no,no,no,yes,yes,148000,72730.7,23713,14.2,3083,30.7,25674,Anthony G. Capuano,Bethesda,Maryland
+174,Lear,LEA,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,yes,15,yes,no,no,no,yes,no,186600,8263.1,23466.9,12.3,572.5,74.7,14695.5,Raymond E. Scott,Southfield,Michigan
+175,Genuine Parts,GPC,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,4,yes,no,no,no,no,no,60000,21600.9,23090.6,4.5,1316.5,11.3,17968.5,William P. Stengel II,Atlanta,Georgia
+176,Sherwin-Williams,SHW,Chemicals,Chemicals,yes,no,yes,no,2,yes,no,no,no,yes,no,64088,88255.4,23051.9,4.1,2388.8,18.3,22954.4,Heidi G. Petz,Cleveland,Ohio
+177,Halliburton,HAL,Energy,"Oil and Gas Equipment, Services",yes,no,no,yes,20,yes,no,no,no,no,no,48000,35087.8,23018,13.4,2638,67.8,24683,Jeffrey A. Miller,Houston,Texas
+178,Freeport-McMoRan,FCX,Energy,"Mining, Crude-Oil Production",yes,no,yes,yes,-7,no,yes,no,no,no,no,27200,67445.9,22855,0.3,1848,-46.7,52506,Kathleen L. Quirk,Phoenix,Arizona
+179,Live Nation Entertainment,LYV,Media,Entertainment,yes,no,no,yes,69,yes,no,no,no,yes,no,23200,24411.5,22749.1,36.4,563.3,90.3,19074,Michael Rapino,Beverly Hills,California
+180,Marsh & McLennan,MMC,Financials,Diversified Financials,yes,no,no,no,13,yes,no,no,no,yes,no,85000,101657.8,22736,9.7,3756,23.1,48030,John Q. Doyle,New York,New York
+181,Advanced Micro Devices,AMD,Technology,Semiconductors and Other Electronic Components,yes,no,yes,yes,-14,no,yes,no,no,yes,no,26000,291697.1,22680,-3.9,854,-35.3,67885,Lisa T. Su,Santa Clara,California
+182,First Citizens BancShares,FCNCA,Financials,Commercial Banks,yes,no,no,yes,420,yes,no,yes,no,no,no,15868,23620.4,22466,304.9,11466,944.3,213758,Frank B. Holding Jr.,Raleigh,North Carolina
+183,WESCO International,WCC,Wholesalers,Wholesalers: Diversified,yes,no,no,no,-2,no,yes,no,no,yes,no,20000,8727.3,22385.2,4.5,765.5,-11,15060.9,John J. Engel,Pittsburgh,Pennsylvania
+184,Carrier Global,CARR,Industrials,Industrial Machinery,yes,no,no,yes,12,yes,no,no,no,yes,no,53000,52323,22098,8.2,1349,-61.8,32822,David L. Gitlin,Palm Beach Gardens,Florida
+185,Cleveland-Cliffs,CLF,Materials,Metals,yes,no,no,yes,-15,no,yes,no,no,no,no,28000,11331.1,21996,-4.3,399,-70.1,17537,Lourenco Goncalves,Cleveland,Ohio
+186,Block,SQ,Business Services,Financial Data Services,yes,yes,no,yes,48,yes,no,no,no,yes,no,12985,52075.3,21915.6,25,9.8,,34069.9,Jack Dorsey,Oakland,California
+187,Exelon,EXC,Energy,Utilities: Gas and Electric,yes,no,no,yes,31,yes,no,no,no,yes,no,19962,37560,21727,13.9,2328,7.3,101546,Calvin G. Butler Jr.,Chicago,Illinois
+188,KKR,KKR,Financials,Securities,yes,no,no,yes,308,yes,no,no,no,no,no,4490,89013.9,21685.3,198.1,3732.3,,317294.2,Joseph Y. Bae/Scott C. Nuttall,New York,New York
+189,CDW,CDW,Technology,Information Technology Services,yes,no,yes,no,-23,no,yes,no,no,no,no,15100,34329.5,21376,-10,1104.3,-0.9,13284.6,Christine A. Leahy,Vernon Hills,Illinois
+190,Booking Holdings,BKNG,Technology,Internet Services and Retailing,yes,no,no,yes,53,yes,no,no,no,yes,no,23482,123968.4,21365,25,4289,40.3,24342,Glenn D. Fogel,Norwalk,Connecticut
+191,Synchrony,SYF,Financials,Diversified Financials,yes,no,no,yes,44,yes,no,no,no,no,yes,20000,17543.1,20999,19.8,2238,-25.8,117479,Brian D. Doubles,Stamford,Connecticut
+192,Quanta Services,PWR,Engineering & Construction,Engineering & Construction,yes,no,no,yes,52,yes,no,no,no,yes,no,52500,37865.6,20882.2,22.3,744.7,51.6,16237.2,Earl C. Austin Jr.,Houston,Texas
+193,Jones Lang LaSalle,JLL,Financials,Real estate,yes,no,no,yes,-3,no,yes,no,no,yes,no,106100,9255.6,20760.8,-0.5,225.4,-65.6,16064.8,Christian Ulbrich,Chicago,Illinois
+194,Discover Financial Services,DFS,Financials,Commercial Banks,yes,no,no,yes,79,yes,no,no,no,no,yes,21100,32846.5,20606,35.5,2940,-33.1,151522,J. Michael  Shepherd,Riverwoods,Illinois
+195,Tenet Healthcare,THC,Health Care,Health Care: Medical Facilities,yes,no,no,yes,20,yes,no,no,no,no,no,95905,10510.5,20548,7.2,611,48.7,28312,Saumya Sutaria,Dallas,Texas
+196,Altria Group,MO,"Food, Beverages & Tobacco",Tobacco,yes,no,no,yes,-2,no,yes,no,no,no,no,6400,76922.2,20502,-0.9,8130,41,38570,William F. Gifford Jr.,Richmond,Virginia
+197,Stryker,SYK,Health Care,Medical Products and Equipment,yes,no,no,yes,27,yes,no,no,no,yes,yes,52000,136158.7,20498,11.1,3165,34.2,39912,Kevin A. Lobo,Portage,Michigan
+198,Kimberly-Clark,KMB,Household Products,Household and Personal Products,yes,no,no,no,1,yes,no,no,no,yes,no,41000,43579.9,20431,1.3,1764,-8.8,17344,Michael D. Hsu,Irving,Texas
+199,Waste Management,WM,Business Services,Waste Management,yes,no,no,no,5,yes,no,no,no,yes,no,48000,85600.6,20426,3.7,2304,2.9,32823,James C. Fish Jr.,Houston,Texas
+200,Cheniere Energy,LNG,Energy,Pipelines,yes,no,no,yes,-78,no,yes,no,yes,no,no,1605,37851.2,20394,-39,9881,591.9,43076,Jack A. Fusco,Houston,Texas
+201,Ross Stores,ROST,Retailing,Specialty Retailers: Apparel,yes,no,yes,yes,22,yes,no,no,no,no,no,108000,49409.1,20376.9,9,1874.5,24,14300.1,Barbara Rentler,Dublin,California
+202,WestRock,,Materials,"Packaging, Containers",no,no,no,yes,-19,no,yes,no,no,no,no,56100,12707,20310,-4.5,-1649,-274.6,27443.7,David B. Sewell,Atlanta,Georgia
+203,General Mills,GIS,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,yes,16,yes,no,no,no,yes,no,34000,39501.5,20094.2,5.8,2593.9,-4.2,31451.7,Jeffrey L. Harmening,Minneapolis,Minnesota
+204,Goodyear Tire & Rubber,GT,Motor Vehicles & Parts,Motor Vehicles & Parts,no,no,no,no,-13,no,yes,no,no,no,no,71000,3901.3,20066,-3.6,-689,-441.1,21582,Mark W. Stewart,Akron,Ohio
+205,BJ's Wholesale Club,BJ,Retailing,General Merchandisers,yes,no,no,no,5,yes,no,no,no,no,no,34000,10058.5,19968.7,3.4,523.7,2.1,6677.6,Robert W. Eddy,Marlborough,Massachusetts
+206,GE HealthCare Technologies,GEHC,Health Care,Medical Products and Equipment,yes,no,no,no,0,no,no,yes,no,no,no,51000,41396.5,19552,,1568,,32454,Peter J. Arduini,Chicago,Illinois
+207,Colgate-Palmolive,CL,Household Products,Household and Personal Products,yes,no,no,yes,21,yes,no,no,no,yes,no,34000,74019.9,19457,8.3,2300,28.9,16393,Noel R. Wallace,New York,New York
+208,Whirlpool,WHR,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,-5,no,yes,no,no,yes,no,59000,6515.3,19455,-1.4,481,,17312,Marc R. Bitzer,Benton Harbor,Michigan
+209,L3Harris Technologies,LHX,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,37,yes,no,no,no,no,no,50000,40508.1,19419,13.8,1227,15.5,41687,Christopher E. Kubasik,Melbourne,Florida
+210,Adobe,ADBE,Technology,Computer Software,yes,no,no,yes,23,yes,no,no,no,yes,yes,29945,226060.8,19409,10.2,5428,14.1,29779,Shantanu Narayen,San Jose,California
+211,Becton Dickinson,BDX,Health Care,Medical Products and Equipment,yes,no,no,no,-2,no,yes,no,no,no,no,73000,71488.9,19372,-0.2,1484,-16.6,52780,Thomas E. Polen,Franklin Lakes,New Jersey
+212,Pioneer Natural Resources,PXD,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-48,no,yes,no,no,no,no,2213,61326.1,19362,-20.3,4894,-37.6,36613,Richard P. Dealy,Irving,Texas
+213,Cognizant Technology Solutions,CTSH,Technology,Information Technology Services,yes,no,no,no,-5,no,yes,no,no,no,no,347700,36486.8,19353,-0.4,2126,-7.2,18483,Ravi Kumar S,Teaneck,New Jersey
+214,Murphy USA,MUSA,Retailing,Specialty Retailers: Other,yes,no,no,yes,-32,no,yes,no,no,no,no,10750,8726.5,19238.2,-9.5,556.8,-17.3,4340.1,R. Andrew Clyde,El Dorado,Arkansas
+215,Fiserv,FI,Business Services,Financial Data Services,yes,no,no,yes,15,yes,no,no,no,yes,no,42000,94358.1,19093,7.6,3068,21.3,90890,Frank J. Bisignano,Milwaukee,Wisconsin
+216,Parker-Hannifin,PH,Industrials,Industrial Machinery,yes,no,yes,yes,45,yes,no,no,no,no,no,62730,71369.5,19065.2,20.2,2082.9,58.3,29964.5,Jennifer A. Parmentier,Cleveland,Ohio
+217,American Electric Power,AEP,Energy,Utilities: Gas and Electric,yes,no,no,yes,-12,no,yes,no,no,no,no,17250,45339.4,18982.3,-3.3,2208.1,-4.3,96684,William J. Fehrman,Columbus,Ohio
+218,International Paper,IP,Materials,"Packaging, Containers",yes,no,no,no,-34,no,yes,no,no,yes,no,39000,13514.7,18916,-10.6,288,-80.9,23261,Andrew K. Silvernail,Memphis,Tennessee
+219,ManpowerGroup,MAN,Business Services,Temporary Help,yes,no,no,no,-17,no,yes,no,no,no,no,27900,3756.3,18914.5,-4.6,88.8,-76.2,8830.2,Jonas Prising,Milwaukee,Wisconsin
+220,Aramark,ARMK,Business Services,Diversified Outsourcing Services,yes,no,no,no,33,yes,no,no,no,no,no,262550,8535,18853.9,15.5,674.1,246.6,16871.2,John J. Zillmer,Philadelphia,Pennsylvania
+221,Steel Dynamics,STLD,Materials,Metals,yes,yes,no,yes,-45,no,yes,no,no,yes,no,12600,23412.5,18795.3,-15.6,2450.9,-36.5,14908.4,Mark D. Millett,Fort Wayne,Indiana
+222,Aflac,AFL,Financials,"Insurance: Life, Health (stock)",yes,no,no,no,-15,no,yes,no,no,yes,no,12785,49404.5,18701,-4.1,4659,10.9,126724,Daniel P. Amos,Columbus,Georgia
+223,Reinsurance Group of America,RGA,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,34,yes,no,no,no,yes,no,3900,12683.2,18567,14.2,902,44.8,97623,Tony Cheng,Chesterfield,Missouri
+224,Emerson Electric,EMR,Industrials,Industrial Machinery,yes,no,no,no,-18,no,yes,no,no,no,no,67000,64842.2,18370,-6.4,13219,309.1,42746,S.L. Karsanbhai,St. Louis,Missouri
+225,State Street,STT,Financials,Commercial Banks,yes,no,no,yes,80,yes,no,no,no,yes,no,46451,23346.3,18366,34.1,1944,-29.9,297258,Ronald P. O'Hanley,Boston,Massachusetts
+226,PPG Industries,PPG,Chemicals,Chemicals,yes,no,no,yes,6,yes,no,no,no,yes,no,53000,34103.8,18246,3.4,1270,23.8,21647,Timothy M. Knavish,Pittsburgh,Pennsylvania
+227,United States Steel,X,Materials,Metals,yes,no,no,no,-41,no,yes,no,no,no,no,21803,9168,18053,-14.3,895,-64.5,20451,David B. Burritt,Pittsburgh,Pennsylvania
+228,Automatic Data Processing,ADP,Business Services,Diversified Outsourcing Services,yes,no,yes,yes,23,yes,no,no,no,yes,no,63000,102590.8,18012.2,9.2,3412,15.7,50971,Maria Black,Roseland,New Jersey
+229,Group 1 Automotive,GPI,Retailing,"Automotive Retailing, Services",yes,no,no,yes,23,yes,no,no,no,no,no,16011,3999.4,17873.7,8.9,601.6,-19.9,7774.1,Daryl A. Kenningham,Houston,Texas
+230,Dominion Energy,D,Energy,Utilities: Gas and Electric,yes,no,no,yes,12,yes,no,no,no,no,no,17700,41201.2,17867,4,1994,100.6,109032,Robert M. Blue,Richmond,Virginia
+231,BlackRock,BLK,Financials,Securities,yes,yes,no,no,-2,no,yes,no,no,yes,no,19800,124173.4,17859,-0.1,5502,6.3,123211,Laurence D. Fink,New York,New York
+232,Oneok,OKE,Energy,Pipelines,yes,no,no,yes,-59,no,yes,no,no,no,no,4775,46751.9,17677,-21,2659,54.4,44266,Pierce H. Norton II,Tulsa,Oklahoma
+233,C.H. Robinson Worldwide,CHRW,Transportation,Transportation and Logistics,yes,no,no,no,-73,no,yes,no,no,yes,no,15246,8907.9,17596.4,-28.7,325.1,-65.4,5225.3,David P. Bozeman,Eden Prairie,Minnesota
+234,Texas Instruments,TXN,Technology,Semiconductors and Other Electronic Components,yes,no,no,yes,-34,no,yes,no,no,no,no,34000,158540.8,17519,-12.5,6510,-25.6,32348,Haviv Ilan,Dallas,Texas
+235,Kohl's,KSS,Retailing,General Merchandisers,yes,no,no,no,-9,no,yes,no,no,yes,no,66000,3232.9,17476,-3.4,317,,14009,Thomas A. Kingsbury,Menomonee Falls,Wisconsin
+236,AutoZone,AZO,Retailing,Specialty Retailers: Other,yes,no,no,yes,22,yes,no,no,no,yes,no,95200,54532.7,17457.2,7.4,2528.4,4.1,15985.9,Philip B. Daniele III,Memphis,Tennessee
+237,Lam Research,LRCX,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,3,yes,no,no,no,yes,no,17200,127375.7,17428.5,1.2,4510.9,-2,18781.6,Timothy M. Archer,Fremont,California
+238,Corteva,CTVA,"Food, Beverages & Tobacco",Food Production,yes,no,no,yes,0,no,no,no,no,yes,no,22500,40304.4,17226,-1.3,735,-35.9,42996,Charles V. Magro,Indianapolis,Indiana
+239,Peter Kiewit Sons',,Engineering & Construction,Engineering & Construction,yes,no,no,yes,68,yes,no,no,no,no,no,31100,,17118,25.3,1176,65.6,9724,Rick Lanoha,Omaha,Nebraska
+240,Builders FirstSource,BLDR,Materials,"Building Materials, Glass",yes,no,no,no,-68,no,yes,no,no,no,no,29000,25430.6,17097.3,-24.8,1540.6,-44,10499.5,Dave Rush,Irving,Texas
+241,Kyndryl Holdings,KD,Technology,Information Technology Services,no,no,no,no,-16,no,yes,no,no,no,no,90000,5007,17026,-7,-1374,,11464,Martin J. Schroeter,New York,New York
+242,EchoStar,SATS,Telecommunications,Telecommunications,no,no,no,yes,0,no,no,yes,no,no,no,15300,3869.1,17015.6,751.6,-1702.1,-1061.3,57108.9,Hamid Akhavan,Englewood,Colorado
+243,American Family Insurance Group,,Financials,Insurance: Property and Casualty (Stock),no,no,no,no,58,yes,no,no,no,no,no,12417,,16999.9,23.1,-891,,38023.5,William Westrate,Madison,Wisconsin
+244,Delek US Holdings,DK,Energy,Petroleum Refining,yes,no,no,no,-46,no,yes,no,no,no,no,3591,1968,16917.4,-16.4,19.8,-92.3,7171.8,Avigal Soreq,Brentwood,Tennessee
+245,Land O'Lakes,,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,yes,no,-32,no,yes,no,no,no,no,9000,,16794.9,-12.6,254.2,5.4,9464.3,Beth E. Ford,Arden Hills,Minnesota
+246,Sempra,SRE,Energy,Utilities: Gas and Electric,yes,no,no,yes,39,yes,no,no,no,yes,no,16835,45438.8,16720,15.8,3074,43.8,87181,Jeffrey W. Martin,San Diego,California
+247,Global Partners,GLP,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,-27,no,yes,no,no,yes,no,4273,1508.7,16492.2,-12.6,152.5,-57.9,3446,Eric Slifka,Waltham,Massachusetts
+248,Grainger,GWW,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,24,yes,no,no,no,yes,yes,24650,49983.2,16478,8.2,1829,18.2,8147,D.G.  Macpherson,Lake Forest,Illinois
+249,Jacobs Solutions,J,Business Services,Diversified Outsourcing Services,yes,no,no,yes,28,yes,no,no,no,no,no,58550,19316.3,16352.4,9.6,665.8,3.4,14617.1,Bob Pragada,Dallas,Texas
+250,Edison International,EIX,Energy,Utilities: Gas and Electric,yes,no,no,yes,-9,no,yes,no,no,no,no,14346,27208.4,16338,-5.1,1197,95.6,81758,Pedro J. Pizarro,Rosemead,California
+251,MGM Resorts International,MGM,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,64,yes,no,no,no,no,no,67000,14966.3,16164.2,23.1,1142.2,-22.5,42368.5,William J. Hornbuckle,Las Vegas,Nevada
+252,Guardian Life Ins. Co. of America,,Financials,"Insurance: Life, Health (Mutual)",yes,no,no,no,29,yes,no,no,no,no,no,7561,,16137,10.1,375,428.2,96202,Andrew J. McMahon,New York,New York
+253,Illinois Tool Works,ITW,Industrials,Industrial Machinery,yes,no,no,no,7,yes,no,no,no,yes,no,45000,80162.3,16107,1.1,2957,-2.5,15518,Christopher A. O'Herlihy,Glenview,Illinois
+254,Ameriprise Financial,AMP,Financials,Diversified Financials,yes,no,no,yes,35,yes,no,no,no,no,no,13800,43927.7,16096,12.2,2556,-0.1,175191,James M. Cracchiolo,Minneapolis,Minnesota
+255,PulteGroup,PHM,Engineering & Construction,Homebuilders,yes,no,no,no,4,yes,no,no,no,yes,yes,6382,25449.4,16061.6,-1,2602.4,-0.6,16087.1,Ryan R. Marshall,Atlanta,Georgia
+256,Targa Resources,TRGP,Energy,Pipelines,yes,no,no,yes,-68,no,yes,no,no,no,no,3182,24921.7,16060.3,-23.3,1345.9,12.6,20671.8,Matthew J. Meloy,Houston,Texas
+257,Ally Financial,ALLY,Financials,Diversified Financials,yes,no,no,no,81,yes,no,no,no,no,yes,11100,12337.7,15971,30.9,1020,-40.5,196392,Michael G. Rhodes,Detroit,Michigan
+258,BorgWarner,BWA,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,4,yes,no,no,no,yes,no,39900,8023.4,15921,0.8,625,-33.8,14453,Frederic B. Lissalde,Auburn Hills,Michigan
+259,Estée Lauder,EL,Household Products,Household and Personal Products,yes,no,no,no,-29,no,yes,no,no,yes,no,53010,55258.7,15910,-10.3,1006,-57.9,23415,Fabrizio Freda,New York,New York
+260,Loews,L,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,37,yes,no,no,no,no,no,12280,17396.1,15901,13.2,1434,41.7,79197,James S. Tisch,New York,New York
+261,O'Reilly Automotive,ORLY,Retailing,Specialty Retailers: Other,yes,no,no,yes,26,yes,no,no,no,no,no,82958,66634.4,15812.3,9.7,2346.6,8,13873,Brad Beckham,Springfield,Missouri
+262,Markel Group,MKL,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,90,yes,no,no,no,no,no,21600,19946.7,15803.6,35.4,1996.1,,55045.7,Thomas S. Gayner,Glen Allen,Virginia
+263,Stanley Black & Decker,SWK,Household Products,"Home Equipment, Furnishings",no,no,no,no,-36,no,yes,no,no,yes,no,50500,15062,15781.1,-12.3,-310.5,-129.2,23663.8,Donald Allan Jr.,New Britain,Connecticut
+264,Micron Technology,MU,Technology,Semiconductors and Other Electronic Components,no,no,no,no,-128,no,yes,no,no,no,no,43000,130547.6,15540,-49.5,-5833,-167.1,64254,Sanjay Mehrotra,Boise,Idaho
+265,Fluor,FLR,Engineering & Construction,Engineering & Construction,yes,no,no,no,38,yes,no,no,no,no,no,30187,7192.3,15474,12.6,139,-4.1,6973,David E. Constable,Irving,Texas
+266,Leidos Holdings,LDOS,Technology,Information Technology Services,yes,no,no,yes,22,yes,no,no,no,no,no,47000,17700.6,15438,7.2,199,-70.9,12695,Thomas A. Bell,Reston,Virginia
+267,Viatris,VTRS,Health Care,Pharmaceuticals,yes,no,no,yes,-11,no,yes,no,no,no,no,38000,14179.6,15426.9,-5.1,54.7,-97.4,47685.5,Scott A. Smith,Canonsburg,Pennsylvania
+268,Kinder Morgan,KMI,Energy,Pipelines,yes,no,yes,yes,-54,no,yes,no,no,no,no,10891,40703.3,15334,-20.1,2391,-6.2,71020,Kimberly A. Dang,Houston,Texas
+269,Ecolab,ECL,Chemicals,Chemicals,yes,no,no,yes,24,yes,no,no,no,yes,no,48000,66017.1,15320.2,8,1372.3,25.7,21846.6,Christophe Beck,St. Paul,Minnesota
+270,Baxter International,BAX,Health Care,Medical Products and Equipment,yes,no,no,no,4,yes,no,no,no,no,no,60000,21704.5,15282,1.1,2656,,28276,Jos? E. Almeida,Deerfield,Illinois
+271,Devon Energy,DVN,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-55,no,yes,no,no,no,no,1900,31864.3,15258,-20.4,3747,-37.7,24490,Richard E. Muncrief,Oklahoma City,Oklahoma
+272,Kellanova,K,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,-2,no,yes,no,no,no,no,23000,19579.4,15207,-0.7,951,-0.9,15621,Steven A. Cahillane,Chicago,Illinois
+273,Farmers Insurance Exchange,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,no,22,yes,no,no,no,no,no,9685,,15194.4,7.8,-652.9,,23677.7,Raul Vargas,Woodland Hills,California
+274,Casey's General Stores,CASY,Retailing,Specialty Retailers: Other,yes,no,no,yes,42,yes,no,no,no,no,no,31637,11788.1,15094.5,16.5,446.7,31.5,5943.3,Darren M. Rebelez,Ankeny,Iowa
+275,IQVIA Holdings,IQV,Health Care,Health Care: Pharmacy and Other Services,yes,no,no,yes,11,yes,no,no,no,yes,no,87000,46029.4,14984,4,1358,24.5,26681,Ari Bousbib,Durham,North Carolina
+276,Republic Services,RSG,Business Services,Waste Management,yes,no,no,yes,33,yes,no,no,no,yes,no,41000,60229,14964.5,10.8,1731,16.4,31410.1,Jon Vander Ark,Phoenix,Arizona
+277,Fox,FOXA,Media,Entertainment,yes,no,no,no,23,yes,no,no,no,no,no,10400,14225.1,14913,6.7,1239,2.8,21866,Lachlan K. Murdoch,New York,New York
+278,Gap,GPS,Retailing,Specialty Retailers: Apparel,yes,no,no,no,-13,no,yes,no,no,no,no,85000,10290.3,14889,-4.7,502,,11044,Richard Dickson,San Francisco,California
+279,Keurig Dr Pepper,KDP,"Food, Beverages & Tobacco",Beverages,yes,no,no,yes,17,yes,no,no,no,yes,no,28100,42557.4,14814,5.4,2181,51.9,52130,Timothy P. Cofer,Burlington,Massachusetts
+280,Reliance,RS,Materials,Metals,yes,no,yes,yes,-33,no,yes,no,no,yes,no,15250,19190.4,14805.9,-13,1335.9,-27.4,10480.3,Karla R. Lewis,Scottsdale,Arizona
+281,Asbury Automotive Group,ABG,Retailing,"Automotive Retailing, Services",yes,no,no,yes,-13,no,yes,no,no,no,no,15000,4810.9,14802.7,-4.1,602.5,-39.6,10159.4,David W. Hult,Duluth,Georgia
+282,Pacific Life,,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,30,yes,no,no,no,no,no,4181,,14802,10.8,875,14.7,217386,Darryl D. Button,Newport Beach,California
+283,Vistra,VST,Energy,Energy,yes,no,no,no,21,yes,no,no,no,no,no,4870,24230.2,14779,7.7,1493,,32966,James A. Burke,Irving,Texas
+284,Western & Southern Financial Group,,Financials,"Insurance: Life, Health (Mutual)",yes,no,no,yes,30,yes,no,no,no,no,no,2669,,14775.1,12.3,484.8,56.8,75968.9,John F. Barrett,Cincinnati,Ohio
+285,Andersons,ANDE,"Food, Beverages & Tobacco",Food Production,yes,no,no,yes,-46,no,yes,no,no,no,no,2297,1953.4,14750.1,-15,101.2,-22.8,3855,Patrick E. Bowe,Maumee,Ohio
+286,Nordstrom,JWN,Retailing,General Merchandisers,yes,no,no,no,-19,no,yes,no,no,yes,no,54000,3309.2,14693,-5.4,134,-45.3,8444,Erik B. Nordstrom,Seattle,Washington
+287,Omnicom Group,OMC,Business Services,"Advertising, marketing",yes,no,no,yes,3,yes,no,no,no,no,no,75900,19081.1,14692.2,2.8,1391.4,5.7,28044.6,John D. Wren,New York,New York
+288,Fidelity National Information Services,FIS,Business Services,Financial Data Services,no,no,yes,no,-5,no,yes,no,no,no,no,60000,42762.2,14680,1,-6654,,55105,Stephanie L. Ferris,Jacksonville,Florida
+289,Consolidated Edison,ED,Energy,Utilities: Gas and Electric,yes,no,no,yes,-25,no,yes,no,no,no,no,14592,31375.8,14663,-6.4,2519,51.7,66331,Timothy P. Cawley,New York,New York
+290,CSX,CSX,Transportation,Railroads,yes,no,no,yes,-11,no,yes,no,no,yes,no,23232,72568,14657,-1.3,3715,-10.8,42408,Joseph R. Hinrichs,Jacksonville,Florida
+291,AECOM,ACM,Engineering & Construction,Engineering & Construction,yes,no,no,yes,19,yes,no,no,no,yes,no,52000,13341.2,14591.3,8.1,55.3,-82.2,11233.4,W. Troy Rudd,Dallas,Texas
+292,Lumen Technologies,LUMN,Telecommunications,Telecommunications,no,no,yes,no,-55,no,yes,no,no,no,no,28000,1585,14557,-16.7,-10298,,34018,Kathleen E. Johnson,Monroe,Louisiana
+293,Tractor Supply,TSCO,Retailing,Specialty Retailers: Other,yes,no,no,yes,-2,no,yes,no,no,no,no,37500,28248,14555.7,2.5,1107.2,1.7,9188.2,Harry A. Lawton III,Brentwood,Tennessee
+294,DXC Technology,DXC,Technology,Information Technology Services,no,no,no,no,-39,no,yes,no,no,no,no,130000,3878.7,14430,-11.3,-568,-179.1,15845,Raul J. Fernandez,Ashburn,Virginia
+295,AGCO,AGCO,Industrials,Construction and Farm Machinery,yes,no,no,yes,29,yes,no,no,no,yes,no,27900,9179.5,14412.4,13.9,1171.4,31.7,11421.2,Eric P. Hansotia,Duluth,Georgia
+296,Sonic Automotive,SAH,Retailing,"Automotive Retailing, Services",yes,no,no,yes,3,yes,no,no,no,no,no,10500,1941.7,14372.4,2.7,178.2,101.4,5364.6,David Bruton Smith,Charlotte,North Carolina
+297,Intuit,INTU,Technology,Computer Software,yes,no,no,yes,24,yes,no,no,no,yes,yes,22900,181986.4,14368,12.9,2384,15.4,27780,Sasan K. Goodarzi,Mountain View,California
+298,United Rentals,URI,Business Services,Equipment Leasing,yes,no,no,yes,57,yes,no,no,no,no,no,26300,48437.2,14332,23.1,2424,15.2,25589,Matthew J. Flannery,Stamford,Connecticut
+299,Universal Health Services,UHS,Health Care,Health Care: Medical Facilities,yes,no,no,yes,12,yes,no,no,no,yes,no,85025,12265.2,14282,6.6,717.8,6.2,13967.6,Marc D. Miller,King of Prussia,Pennsylvania
+300,Boston Scientific,BSX,Health Care,Medical Products and Equipment,yes,no,no,yes,23,yes,no,no,no,yes,no,48000,100673.1,14240,12.3,1592,128.1,35136,Michael F. Mahoney,Marlborough,Massachusetts
+301,Otis Worldwide,OTIS,Industrials,Industrial Machinery,yes,no,yes,yes,5,yes,no,no,no,yes,no,71000,40249.5,14209,3.8,1406,12.2,10117,Judith F. Marks,Farmington,Connecticut
+302,Xcel Energy,XEL,Energy,Utilities: Gas and Electric,yes,no,no,no,-31,no,yes,no,no,yes,no,11311,29839.6,14206,-7.2,1771,2,64079,Robert C. Frenzel,Minneapolis,Minnesota
+303,Edward Jones,,Financials,Securities,yes,no,yes,yes,30,yes,no,no,no,yes,yes,54000,,14080,13.4,1612,14.8,28003,Penny Pennington,Des Peres,Missouri
+304,Ball,BALL,Materials,"Packaging, Containers",yes,no,no,no,-35,no,yes,no,no,yes,no,21000,21206.3,14029,-8.6,707,-1.7,19303,Daniel W. Fisher,Westminster,Colorado
+305,LKQ,LKQ,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,14,yes,no,no,no,no,no,49000,14248.5,13866,8.4,936,-18.5,15079,Justin Jude,Chicago,Illinois
+306,Mutual of Omaha,,Financials,"Insurance: Life, Health (Mutual)",yes,no,no,no,22,yes,no,no,no,no,no,6231,,13855.8,10.6,47.7,,51838.6,James T. Blackledge,Omaha,Nebraska
+307,Mosaic,MOS,Chemicals,Chemicals,yes,no,no,yes,-90,no,yes,no,no,no,no,14049,10442,13696.1,-28.4,1164.9,-67.5,23032.8,Bruce M. Bodine,Tampa,Florida
+308,Textron,TXT,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,10,yes,no,no,no,yes,no,35000,18500.5,13683,6.3,921,7,16856,Scott C. Donnelly,Providence,Rhode Island
+309,Labcorp Holdings,LH,Health Care,Health Care: Pharmacy and Other Services,yes,no,no,no,-31,no,yes,no,no,yes,no,61975,18372.5,13668.2,-8.1,418,-67.3,16725.1,Adam H. Schechter,Burlington,North Carolina
+310,Principal Financial,PFG,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,-74,no,yes,no,no,no,no,19800,20357.8,13665.8,-21.9,623.2,-87,305046.7,Daniel J. Houston,Des Moines,Iowa
+311,Regeneron Pharmaceuticals,REGN,Health Care,Pharmaceuticals,yes,yes,no,yes,28,yes,no,no,no,no,no,13450,105644.7,13117.2,7.8,3953.6,-8.9,33080.2,Leonard S. Schleifer,Tarrytown,New York
+312,Raymond James Financial,RJF,Financials,Securities,yes,no,no,yes,51,yes,no,no,no,yes,no,18000,26843.3,12992,14.9,1739,15.2,78360,Paul C. Reilly,St. Petersburg,Florida
+313,Dick's Sporting Goods,DKS,Retailing,Specialty Retailers: Other,yes,no,yes,yes,21,yes,no,no,no,no,no,37200,18539.3,12984.4,5,1046.5,0.3,9311.8,Lauren R. Hobart,Coraopolis,Pennsylvania
+314,Auto-Owners Insurance,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,yes,48,yes,no,no,no,no,no,6946,,12937.7,13.4,-912.4,,36238.2,Jamie Whisnant,Lansing,Michigan
+315,Expedia Group,EXPE,Retailing,Internet Services and Retailing,yes,no,yes,yes,38,yes,no,no,no,no,no,17100,18773.7,12839,10,797,126.4,21642,Ariane  Gorin,Seattle,Washington
+316,J.B. Hunt Transport Services,JBHT,Transportation,"Trucking, Truck Leasing",yes,no,no,no,-36,no,yes,no,no,yes,no,34718,20582.2,12829.7,-13.4,728.3,-24.9,8538.3,Shelley Simpson,Lowell,Arkansas
+317,M&T Bank,MTB,Financials,Commercial Banks,yes,no,no,no,122,yes,no,no,no,no,no,21980,24233.4,12752,48.2,2741,37.6,208264,Ren? F. Jones,Buffalo,New York
+318,DTE Energy,DTE,Energy,Utilities: Gas and Electric,yes,no,no,no,-106,no,yes,no,no,yes,no,9950,23204.6,12745,-33.7,1397,29,44755,Gerardo Norcia,Detroit,Michigan
+319,AES,AES,Energy,Utilities: Gas and Electric,yes,no,no,yes,8,yes,no,no,no,yes,no,9600,12744.8,12668,0.4,249,,44799,Andr?s R. Gluski,Arlington,Virginia
+320,Berry Global Group,BERY,Materials,"Packaging, Containers",yes,no,no,no,-36,no,yes,no,no,no,no,44000,7009.6,12664,-12.6,609,-20.5,16587,Kevin Kwilinski,Evansville,Indiana
+321,Fifth Third Bancorp,FITB,Financials,Commercial Banks,yes,no,no,no,90,yes,no,no,no,yes,no,18724,25434.9,12641,35.2,2349,-4,214574,Timothy N. Spence,Cincinnati,Ohio
+322,Air Products & Chemicals,APD,Chemicals,Chemicals,yes,no,no,yes,0,no,no,no,no,no,no,21850,53856.9,12600,-0.8,2300.2,2,32002.5,Seifi Ghasemi,Allentown,Pennsylvania
+323,Corning,GLW,Industrials,"Electronics, Electrical Equip.",yes,no,no,no,-31,no,yes,no,no,no,no,49800,28192.4,12588,-11.3,581,-55.9,28500,Wendell P. Weeks,Corning,New York
+324,EMCOR Group,EME,Engineering & Construction,Engineering & Construction,yes,no,no,yes,45,yes,no,no,no,yes,no,38300,16482.1,12582.9,13.6,633,55.9,6609.7,Anthony J. Guzzi,Norwalk,Connecticut
+325,Amphenol,APH,Technology,Network and Other Communications Equipment,yes,no,no,yes,1,yes,no,no,no,yes,no,95000,69193.3,12554.7,-0.5,1928,1.4,16526.4,R. Adam Norwitt,Wallingford,Connecticut
+326,Westlake,WLK,Chemicals,Chemicals,yes,no,no,no,-63,no,yes,no,no,no,no,15520,19636.5,12548,-20.6,479,-78.7,21035,Jean-Marc Gilson,Houston,Texas
+327,DuPont,DD,Chemicals,Chemicals,yes,no,no,yes,-77,no,yes,no,no,no,no,24000,32016.1,12528,-24.3,423,-92.8,38552,Edward D. Breen,Wilmington,Delaware
+328,Liberty Media,LSXMA,Media,Entertainment,yes,no,no,no,12,yes,no,no,no,yes,no,6486,9699.7,12525,3,761,-58.1,41168,Gregory B. Maffei,Englewood,Colorado
+329,S&P Global,SPGI,Business Services,Financial Data Services,yes,no,no,yes,37,yes,no,no,no,yes,no,40450,136253.3,12497,11.8,2626,-19.2,60589,Douglas L. Peterson,New York,New York
+330,Community Health Systems,CYH,Health Care,Health Care: Medical Facilities,no,no,no,no,7,yes,no,no,no,no,no,54500,486.4,12490,2.3,-133,-389.1,14455,Tim L. Hingtgen,Franklin,Tennessee
+331,FirstEnergy,FE,Energy,Utilities: Gas and Electric,yes,no,no,no,12,yes,no,no,no,no,no,12042,22226.4,12450,3.3,1102,171.4,48767,Brian X. Tierney,Akron,Ohio
+332,Unum Group,UNM,Financials,"Insurance: Life, Health (stock)",yes,no,no,no,15,yes,no,no,no,no,no,10683,10298.6,12385.9,3.3,1283.8,-2.3,63255.2,Richard P. McKenney,Chattanooga,Tennessee
+333,Henry Schein,HSIC,Health Care,Wholesalers: Health Care,yes,no,no,yes,-8,no,yes,no,no,no,no,25000,9704.8,12339,-2.4,416,-22.7,10573,Stanley M. Bergman,Melville,New York
+334,Western Digital,WDC,Technology,"Computers, Office Equipment",no,no,no,no,-113,no,yes,no,no,yes,no,53000,22278.8,12318,-34.5,-1706,-213.7,24429,David V. Goeckeler,San Jose,California
+335,Analog Devices,ADI,Technology,Semiconductors and Other Electronic Components,yes,no,no,yes,9,yes,no,no,no,no,no,26000,98085.7,12305.5,2.4,3314.6,20.6,48794.5,Vincent T. Roche,Wilmington,Massachusetts
+336,Conagra Brands,CAG,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,yes,24,yes,no,no,no,no,no,18600,14168.1,12277,6.4,683.6,-23,22052.6,Sean M. Connolly,Chicago,Illinois
+337,Citizens Financial Group,CFG,Financials,Commercial Banks,yes,no,no,no,82,yes,no,no,no,yes,no,17570,16635.3,12187,34.4,1608,-22.4,221964,Bruce W. Van Saun,Providence,Rhode Island
+338,Norfolk Southern,NSC,Transportation,Railroads,yes,no,no,yes,-18,no,yes,no,no,no,no,20700,57570.4,12156,-4.6,1827,-44.1,41652,Alan H. Shaw,Atlanta,Georgia
+339,Entergy,ETR,Energy,Utilities: Gas and Electric,yes,no,no,yes,-37,no,yes,no,no,no,no,12177,22535.5,12147.4,-11.7,2356.5,113.6,59703.4,Andrew S. Marsh,New Orleans,Louisiana
+340,W.R. Berkley,WRB,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,27,yes,no,no,no,no,no,8329,22689.2,12142.9,8.7,1381.4,,37202,W. Robert Berkley Jr.,Greenwich,Connecticut
+341,DaVita,DVA,Health Care,Health Care: Medical Facilities,yes,no,no,no,16,yes,no,no,no,yes,no,70000,12107,12140.1,4.6,691.5,23.4,16893.6,Javier J. Rodriguez,Denver,Colorado
+342,Northern Trust,NTRS,Financials,Commercial Banks,yes,no,no,no,135,yes,no,no,no,yes,no,23100,18141.4,12116.5,56.3,1107.3,-17.1,150783.1,Michael G. O'Grady,Chicago,Illinois
+343,Hormel Foods,HRL,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,-13,no,yes,no,no,yes,no,20000,19108.8,12110,-2.8,793.6,-20.6,13448.8,James P. Snee,Austin,Minnesota
+344,Crown Holdings,CCK,Materials,"Packaging, Containers",yes,no,no,no,-27,no,yes,no,no,no,no,25000,9574.2,12010,-7.2,450,-38.1,15034,Timothy J. Donahue,Tampa,Florida
+345,Avis Budget Group,CAR,Retailing,"Automotive Retailing, Services",yes,no,no,no,1,yes,no,no,no,no,no,21250,4344,12008,0.1,1632,-41,32569,Joseph A. Ferraro,Parsippany,New Jersey
+346,Wayfair,W,Retailing,Internet Services and Retailing,no,yes,no,no,-10,no,yes,no,no,no,no,12800,8174.7,12003,-1.8,-738,,3474,Niraj S. Shah,Boston,Massachusetts
+347,MasTec,MTZ,Engineering & Construction,Engineering & Construction,no,no,no,yes,47,yes,no,no,no,yes,no,34000,7393,11995.9,22.7,-49.9,-249.8,9373.5,Jos? R. Mas,Coral Gables,Florida
+348,Eversource Energy,ES,Energy,Utilities: Gas and Electric,no,no,no,yes,-13,no,yes,no,no,no,no,10171,20962.9,11910.7,-3.1,-442.2,-131.5,55612.2,Joseph R. Nolan Jr.,Springfield,Massachusetts
+349,Newmont,NEM,Energy,"Mining, Crude-Oil Production",no,no,no,yes,-1,no,yes,no,no,no,no,21700,41315.9,11812,-0.9,-2494,,55506,Thomas R. Palmer,Denver,Colorado
+350,Ryder System,R,Transportation,Transportation and Logistics,yes,no,no,no,-5,no,yes,no,no,yes,no,47500,5320.5,11783,-1.9,406,-53.2,15778,Robert E. Sanchez,Coral Gables,Florida
+351,Fidelity National Financial,FNF,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,8,yes,no,no,no,no,no,22293,14507.3,11752,1.7,517,-54.5,80614,Michael J. Nolan,Jacksonville,Florida
+352,Molson Coors Beverage,TAP,"Food, Beverages & Tobacco",Beverages,yes,no,no,no,22,yes,no,no,no,no,no,16500,14297.8,11702.1,9.4,948.9,,26375.1,Gavin D.K. Hattersley,Chicago,Illinois
+353,Caesars Entertainment,CZR,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,1,yes,no,no,no,no,no,51000,9461,11673,0.2,786,,33366,Thomas R. Reeg,Reno,Nevada
+354,Lincoln National,LNC,Financials,"Insurance: Life, Health (stock)",no,no,yes,no,-132,no,yes,no,no,no,no,11024,5417.5,11645,-37.9,-752,,372413,Ellen G. Cooper,Radnor,Pennsylvania
+355,VF,VFC,Apparel,Apparel,yes,no,no,no,-6,no,yes,no,no,no,no,26400,5964.4,11612.5,-1.9,118.6,-91.5,13990.5,Bracken P. Darrell,Denver,Colorado
+356,International Flavors & Fragrances,IFF,Chemicals,Chemicals,no,no,no,no,-24,no,yes,no,no,no,no,21500,21954.9,11479,-7.7,-2567,,30978,J. Erik  Fyrwald,New York,New York
+357,Huntington Ingalls Industries,HII,Aerospace & Defense,Aerospace & Defense,yes,no,no,yes,18,yes,no,no,no,no,no,44000,11544.7,11454,7.3,681,17.6,11215,Christopher D. Kastner,Newport News,Virginia
+358,Advance Auto Parts,AAP,Retailing,Specialty Retailers: Other,yes,no,no,yes,10,yes,no,no,no,no,no,54500,5072.2,11287.6,1.2,29.7,-93.6,12276.3,Shane M. O'Kelly,Raleigh,North Carolina
+359,Public Service Enterprise Group,PEG,Energy,Utilities: Gas and Electric,yes,no,no,yes,33,yes,no,no,no,no,no,12543,33295.6,11237,14.7,2563,148.6,50741,Ralph A. LaRossa,Newark,New Jersey
+360,Ulta Beauty,ULTA,Retailing,Specialty Retailers: Other,yes,no,no,yes,23,yes,no,no,no,no,no,38000,25238.8,11207.3,9.8,1291,3.9,5707,David C. Kimbell,Bolingbrook,Illinois
+361,Hershey,HSY,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,yes,yes,19,yes,no,no,no,no,no,19578,39719.1,11165,7.2,1861.8,13.2,11902.9,Michele G. Buck,Hershey,Pennsylvania
+362,Chewy,CHWY,Retailing,Internet Services and Retailing,yes,no,no,no,27,yes,no,no,no,yes,no,18100,6919.5,11147.7,10.4,39.6,-19.6,3186.9,Sumit Singh,Plantation,Florida
+363,American Tower,AMT,Financials,Real estate,yes,no,no,no,10,yes,no,no,no,no,no,5643,92146.5,11144.2,4,1483.3,-16,66027.6,Steven O. Vondran,Boston,Massachusetts
+364,Mohawk Industries,MHK,Household Products,"Home Equipment, Furnishings",no,no,no,yes,-13,no,yes,no,no,no,no,43300,8337.2,11135.1,-5.1,-439.5,-1840.9,13559.9,Jeffrey S. Lorberbaum,Calhoun,Georgia
+365,Assurant,AIZ,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,19,yes,no,no,no,no,no,13600,9784.3,11131.6,9.2,642.5,132.3,33635.2,Keith W. Demmings,Atlanta,Georgia
+366,Thor Industries,THO,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,-112,no,yes,no,no,no,no,24900,6257.1,11121.6,-31.8,374.3,-67.1,7260.8,Robert W. Martin,Elkhart,Indiana
+367,Graybar Electric,,Wholesalers,Wholesalers: Diversified,yes,no,yes,yes,11,yes,no,no,no,yes,no,9500,,11042.4,4.8,463.4,2.3,4006.1,Kathleen M. Mazzarella,St. Louis,Missouri
+368,Yum China Holdings,YUMC,"Hotels, Restaurants & Leisure",Food Services,yes,no,yes,yes,37,yes,no,no,no,yes,no,293500,15598.8,10978,14.7,827,87.1,12031,Joey Wat,Plano,Texas
+369,Celanese,CE,Chemicals,Chemicals,yes,no,yes,no,27,yes,no,no,no,no,no,12410,19173.3,10940,13.1,1960,3.5,26597,Lori J. Ryerkerk,Irving,Texas
+370,Qurate Retail,QRTEA,Retailing,Internet Services and Retailing,no,no,no,no,-28,no,yes,no,no,no,no,20386,510.9,10915,-9.8,-145,,11368,David L. Rawlinson II,Englewood,Colorado
+371,Williams,WMB,Energy,Pipelines,yes,no,no,yes,-1,no,yes,no,no,no,no,5601,47482,10907,-0.5,3179,55.1,52627,Alan S. Armstrong,Tulsa,Oklahoma
+372,Interpublic Group,IPG,Business Services,"Advertising, marketing",yes,no,no,no,-1,no,yes,no,no,no,no,57400,12357.8,10889.3,-0.4,1098.4,17.1,19267.3,Philippe Krakowsky,New York,New York
+373,Ovintiv,OVV,Energy,"Mining, Crude-Oil Production",yes,no,no,no,-44,no,yes,no,no,no,no,1743,13958.7,10883,-12.7,2085,-42.7,19987,Brendan M. McCracken,Denver,Colorado
+374,Icahn Enterprises,IEP,Financials,Diversified Financials,no,no,no,no,-80,no,yes,no,no,no,no,15038,7297.9,10847,-23.1,-684,,20858,Andrew  Teno,Sunny Isles Beach,Florida
+375,Huntington Bancshares,HBAN,Financials,Commercial Banks,yes,no,no,yes,91,yes,no,no,no,no,no,19955,20308.6,10837,36.3,1951,-12.8,189368,Stephen D. Steinour,Columbus,Ohio
+376,Erie Insurance Group,,Financials,Insurance: Property and Casualty (Mutual),no,no,no,yes,38,yes,no,no,no,no,no,6510,,10812.5,16.3,-526.6,,27515.2,Timothy G. NeCastro,Erie,Pennsylvania
+377,Carvana,CVNA,Retailing,"Automotive Retailing, Services",yes,yes,no,no,-69,no,yes,no,no,no,no,13700,16943.7,10771,-20.8,450,,7071,Ernest C. Garcia III,Tempe,Arizona
+378,Hess,HES,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-20,no,yes,no,no,no,no,1756,46883.7,10645,-8,1382,-34.1,24007,John B. Hess,New York,New York
+379,Dana,DAN,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,no,8,yes,no,no,no,no,no,41800,1840.9,10555,3.9,38,,7965,James K. Kamsickas,Maumee,Ohio
+380,Alcoa,AA,Materials,Metals,no,no,no,yes,-49,no,yes,no,no,no,no,13600,6067.3,10551,-15.3,-651,,14155,William F. Oplinger,Pittsburgh,Pennsylvania
+381,Equitable Holdings,EQH,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,-83,no,yes,no,no,no,no,10700,12532.3,10528,-24.9,1302,-27.1,276814,Mark Pearson,New York,New York
+382,KLA,KLAC,Technology,Semiconductors and Other Electronic Components,yes,no,no,yes,34,yes,no,no,no,no,no,15105,94470.2,10496.1,13.9,3387.3,2,14072.4,Richard P. Wallace,Milpitas,California
+383,Darden Restaurants,DRI,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,yes,19,yes,no,no,no,no,no,187384,19959.5,10487.8,8.9,981.9,3.1,10241.5,Ricardo Cardenas,Orlando,Florida
+384,Autoliv,ALV,Motor Vehicles & Parts,Motor Vehicles & Parts,yes,no,no,yes,45,yes,no,no,no,no,no,66434,9809.7,10475,18.5,488,15.4,8332,Mikael Bratt,Auburn Hills,Michigan
+385,Alaska Air Group,ALK,Transportation,Airlines,yes,no,no,yes,13,yes,no,no,no,no,no,24610,5408.1,10426,8.1,235,305.2,14613,Benito Minicucci,Seattle,Washington
+386,KeyCorp,KEY,Financials,Commercial Banks,yes,no,no,yes,73,yes,no,no,no,no,no,17692,14663.3,10397,27.9,967,-49.6,188281,Christopher M. Gorman,Cleveland,Ohio
+387,Las Vegas Sands,LVS,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,326,yes,no,yes,no,yes,no,38550,38840.4,10372,139.1,1221,-33.4,21778,Robert G. Goldstein,Las Vegas,Nevada
+388,Owens & Minor,OMI,Health Care,Wholesalers: Health Care,no,no,no,no,2,yes,no,no,no,no,no,22200,2122.5,10334,3.8,-41.3,-284.5,5093.3,Edward A. Pesicka,Mechanicsville,Virginia
+389,Hilton Worldwide Holdings,HLT,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",yes,no,no,yes,42,yes,no,no,no,yes,yes,178000,53788.4,10235,16.7,1141,-9.1,15401,Christopher J. Nassetta,McLean,Virginia
+390,Ebay,EBAY,Technology,Internet Services and Retailing,yes,no,no,yes,3,yes,no,no,no,no,no,12300,27340,10112,3.2,2767,,21620,Jamie Iannone,San Jose,California
+391,Arthur J. Gallagher,AJG,Financials,Diversified Financials,yes,no,no,yes,52,yes,no,no,no,no,no,52118,54584.4,10071.9,17.8,969.5,-13,51615.8,J. Patrick Gallagher Jr.,Rolling Meadows,Illinois
+392,LPL Financial Holdings,LPLA,Financials,Securities,yes,no,no,yes,48,yes,no,no,no,no,no,7372,19735.9,10052.8,16.9,1066.3,26.1,10385.5,Dan H. Arnold,San Diego,California
+393,Cincinnati Financial,CINF,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,141,yes,no,yes,no,no,no,5426,19456.1,10013.4,52.7,1843.3,,32769.5,Stephen M. Spray,Fairfield,Ohio
+394,Toll Brothers,TOL,Engineering & Construction,Homebuilders,yes,no,no,no,-12,no,yes,no,no,yes,no,4800,13476.5,9994.9,-2.7,1372.1,6.7,12527,Douglas C. Yearley Jr.,Fort Washington,Pennsylvania
+395,Motorola Solutions,MSI,Technology,Network and Other Communications Equipment,yes,no,no,yes,23,yes,no,no,no,no,no,21000,59141.7,9978,9.5,1709,25.4,13336,Gregory Q. Brown,Chicago,Illinois
+396,Airbnb,ABNB,Technology,Internet Services and Retailing,yes,yes,no,yes,54,yes,no,no,no,yes,no,6907,106739.8,9917,18.1,4792,153.1,20645,Brian Chesky,San Francisco,California
+397,Intercontinental Exchange,ICE,Financials,Securities,yes,yes,no,yes,4,yes,no,no,no,no,no,13222,78694.7,9903,2.8,2368,63.8,136084,Jeffrey C. Sprecher,Atlanta,Georgia
+398,News Corp.,NWSA,Media,"Publishing, Printing",yes,no,no,no,-17,no,yes,no,no,no,no,25000,15120.1,9879,-4.9,149,-76.1,16921,Robert J. Thomson,New York,New York
+399,Chipotle Mexican Grill,CMG,"Hotels, Restaurants & Leisure",Food Services,yes,no,no,yes,39,yes,no,no,no,yes,no,116068,79707,9871.6,14.3,1228.7,36.7,8044.4,Scott Boatwright,Newport Beach,California
+400,Vertex Pharmaceuticals,VRTX,Health Care,Pharmaceuticals,yes,no,yes,yes,27,yes,no,no,no,no,yes,5400,107975.3,9869.2,10.5,3619.6,9,22730.2,Reshma Kewalramani,Boston,Massachusetts
+401,Biogen,BIIB,Health Care,Pharmaceuticals,yes,no,no,no,-15,no,yes,no,no,no,no,7570,31344.1,9835.6,-3.3,1161.1,-61.9,26844.8,Christopher A. Viehbacher,Cambridge,Massachusetts
+402,GXO Logistics,GXO,Transportation,Transportation and Logistics,yes,no,no,no,21,yes,no,no,no,no,no,109000,6411.5,9778,8.7,229,16.2,9507,Malcolm Wilson,Greenwich,Connecticut
+403,SpartanNash,SPTN,Wholesalers,Wholesalers: Food and Grocery,yes,no,no,no,-4,no,yes,no,no,no,no,13500,699.6,9729.2,0.9,52.2,51.3,2355.6,Tony B. Sarsam,Grand Rapids,Michigan
+404,Burlington Stores,BURL,Retailing,Specialty Retailers: Apparel,yes,no,no,yes,30,yes,no,no,no,no,no,44050,14841.4,9727.5,11.8,339.6,47.6,7706.8,Michael B. O?Sullivan,Burlington,New Jersey
+405,Thrivent Financial for Lutherans,,Financials,"Insurance: Life, Health (Mutual)",yes,no,yes,yes,7,yes,no,no,no,no,no,3810,,9720.3,4,347.2,-68,115628.7,Teresa J. Rasmussen,Minneapolis,Minnesota
+406,NVR,NVR,Engineering & Construction,Homebuilders,yes,no,no,no,-30,no,yes,no,no,no,no,6300,25904.2,9687.3,-8.4,1591.6,-7.8,6601.8,Eugene J. Bredow,Reston,Virginia
+407,Owens Corning,OC,Materials,"Building Materials, Glass",yes,no,no,no,-12,no,yes,no,no,no,no,18000,14510.2,9677,-0.9,1196,-3.6,11237,Brian D. Chambers,Toledo,Ohio
+407,Westinghouse Air Brake Technologies,WAB,Industrials,Industrial Machinery,yes,no,no,yes,46,yes,no,no,no,no,no,29000,25789.6,9677,15.7,815,28.8,18988,Rafael O. Santana,Pittsburgh,Pennsylvania
+409,Oshkosh,OSK,Industrials,Construction and Farm Machinery,yes,no,no,yes,46,yes,no,no,no,no,no,17300,8178.1,9657.9,16.6,598,243.9,9129.2,John C. Pfeifer,Oshkosh,Wisconsin
+410,Global Payments,GPN,Business Services,Financial Data Services,yes,no,no,yes,15,yes,no,no,no,no,no,27000,34094.6,9654.4,7.6,986.2,784.6,50570.2,Cameron M. Bready,Atlanta,Georgia
+411,Lululemon athletica,LULU,Retailing,Specialty Retailers: Apparel,yes,no,no,yes,50,yes,no,no,no,no,no,38000,49225.1,9619.3,18.6,1550.2,81.4,7091.9,Calvin McDonald,Sumner,Washington
+412,Albemarle,ALB,Chemicals,Chemicals,yes,no,no,yes,81,yes,no,no,no,no,no,9000,15482.7,9617.2,31.4,1573.5,-41.5,18270.7,J. Kent Masters,Charlotte,North Carolina
+413,JetBlue Airways,JBLU,Transportation,Airlines,no,no,yes,yes,4,yes,no,no,no,no,no,21310,2523.8,9615,5,-310,,13853,Joanna  Geraghty,Long Island City,New York
+414,Seaboard,SEB,"Food, Beverages & Tobacco",Food Production,yes,no,no,yes,-50,no,yes,no,no,no,no,12847,3130.6,9562,-15,226,-61,7566,Robert L. Steer,Merriam,Kansas
+415,Constellation Brands,STZ,"Food, Beverages & Tobacco",Beverages,no,no,no,no,15,yes,no,no,no,no,no,9400,49683.2,9452.6,7.2,-71,,24662.3,William A. Newlands,Victor,New York
+416,Graphic Packaging Holding,GPK,Materials,"Packaging, Containers",yes,no,no,no,-7,no,yes,no,no,yes,no,23500,8930.6,9428,-0.1,723,38.5,11175,Michael P. Doss,Atlanta,Georgia
+417,Hertz Global Holdings,HTZ,Retailing,"Automotive Retailing, Services",yes,no,no,yes,18,yes,no,no,no,no,no,27000,2390.5,9371,7.9,616,-70.1,24605,Gil  West,Estero,Florida
+418,FM Global,,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,290,yes,no,yes,no,no,no,5667,,9359,113.1,3748.5,,34479,Malcolm C. Roberts,Johnston,Rhode Island
+419,Campbell Soup,CPB,"Food, Beverages & Tobacco",Food Consumer Products,yes,no,no,no,23,yes,no,no,no,no,no,14500,13250.7,9357,9.3,858,13.3,12058,Mark A. Clouse,Camden,New Jersey
+420,Expeditors Intl. of Washington,EXPD,Transportation,Transportation and Logistics,yes,no,no,no,-175,no,yes,no,no,no,no,18452,17248.7,9300.1,-45.5,752.9,-44.5,4523.8,Jeffrey S. Musser,Seattle,Washington
+421,A-Mark Precious Metals,AMRK,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,37,yes,no,no,no,no,no,421,701.4,9286.6,13.8,156.4,18,1545.6,Gregory N. Roberts,El Segundo,California
+422,Booz Allen Hamilton Holding,BAH,Technology,Information Technology Services,yes,no,no,yes,30,yes,no,no,no,yes,no,31900,19259.5,9258.9,10.7,271.8,-41.8,6550.7,Horacio D. Rozanski,McLean,Virginia
+423,Quest Diagnostics,DGX,Health Care,Health Care: Pharmacy and Other Services,yes,no,no,no,-32,no,yes,no,no,yes,no,44000,14782.7,9252,-6.4,854,-9.7,14022,James E. Davis,Secaucus,New Jersey
+424,Altice USA,ATUS,Telecommunications,Telecommunications,yes,no,no,no,-27,no,yes,no,no,no,no,10600,1190.5,9237.1,-4.3,53.2,-72.7,31923.6,Dennis Mathew,Long Island City,New York
+425,PVH,PVH,Apparel,Apparel,yes,no,no,no,-3,no,yes,no,no,no,no,23000,8385.6,9217.7,2.1,663.6,231.1,11172.9,Stefan Larsson,New York,New York
+426,Eastman Chemical,EMN,Chemicals,Chemicals,yes,no,no,no,-49,no,yes,no,no,no,no,14000,11786.2,9210,-12.9,894,12.7,14633,Mark J. Costa,Kingsport,Tennessee
+427,Insight Enterprises,NSIT,Technology,Information Technology Services,yes,no,yes,yes,-48,no,yes,no,no,no,no,14437,6046.1,9175.8,-12,281.3,0.2,6286.4,Joyce A. Mullen,Chandler,Arizona
+428,Regions Financial,RF,Financials,Commercial Banks,yes,no,no,yes,55,yes,no,no,no,no,no,20101,19332.9,9153,21.5,2074,-7.6,152194,John M. Turner Jr.,Birmingham,Alabama
+429,Beacon Roofing Supply,BECN,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,20,yes,no,no,no,no,no,8063,6217.6,9119.8,8.2,435,-5.1,6207.7,Julian G. Francis,Herndon,Virginia
+430,Rockwell Automation,ROK,Industrials,"Electronics, Electrical Equip.",yes,no,no,yes,46,yes,no,no,no,no,no,29000,33384.1,9058,16.7,1387.4,48.8,11304,Blake D. Moret,Milwaukee,Wisconsin
+431,Polaris,PII,Transportation,Transportation Equipment,yes,no,no,yes,-7,no,yes,no,no,no,no,18500,5654.8,9014.8,0.3,502.8,12.5,5516.3,Michael T. Speetzen,Medina,Minnesota
+432,ServiceNow,NOW,Technology,Computer Software,yes,no,no,yes,67,yes,no,no,no,yes,yes,22668,156292,8971,23.8,1731,432.6,17387,William R. McDermott,Santa Clara,California
+433,Sanmina,SANM,Technology,Semiconductors and Other Electronic Components,yes,yes,no,no,38,yes,no,no,no,no,no,36000,3468.2,8935,12.8,310,28.9,4874,Jure Sola,San Jose,California
+434,UGI,UGI,Energy,Utilities: Gas and Electric,no,no,no,yes,-46,no,yes,no,no,no,no,10500,5142.4,8928,-11.7,-1502,-240,15401,Mario  Longhi,King of Prussia,Pennsylvania
+435,WEC Energy Group,WEC,Energy,Utilities: Gas and Electric,yes,no,no,no,-31,no,yes,no,no,no,no,7000,25935.2,8893,-7.3,1331.7,-5.4,43939.7,Scott J. Lauber,Milwaukee,Wisconsin
+436,BrightSpring Health Services,BGST,Health Care,Health Care: Pharmacy and Other Services,no,no,no,no,0,no,no,yes,no,no,no,35000,1860.8,8826.2,14.3,-154.6,,5532.7,Jon B. Rousseau,Louisville,Kentucky
+437,Cintas,CTAS,Business Services,Diversified Outsourcing Services,yes,no,no,yes,36,yes,no,no,no,yes,no,44500,69695.1,8815.8,12.2,1348,9.1,8546.4,Todd M. Schneider,Cincinnati,Ohio
+438,Commercial Metals,CMC,Materials,Metals,yes,no,no,yes,-10,no,yes,no,no,no,no,13022,6800.2,8799.5,-1.3,859.8,-29.4,6639.1,Peter R. Matt,Irving,Texas
+439,Continental Resources,CLR,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-32,no,yes,no,no,no,no,1457,,8731.7,-7.8,3095.8,-23.1,22387.4,Robert D. Lawler,Oklahoma City,Oklahoma
+440,Chesapeake Energy,CHK,Energy,"Mining, Crude-Oil Production",yes,no,no,no,-90,no,yes,no,no,no,no,1000,11618.5,8721,-25.7,2419,-51,14376,Domenic J. Dell'Osso Jr.,Oklahoma City,Oklahoma
+441,CenterPoint Energy,CNP,Energy,Utilities: Gas and Electric,yes,no,no,no,-28,no,yes,no,no,no,no,8827,18035.1,8696,-6.7,917,-13.2,39715,Jason P. Wells,Houston,Texas
+442,NGL Energy Partners,NGL,Energy,Pipelines,yes,no,no,no,25,yes,no,no,no,no,no,638,763.3,8694.9,9.4,51.4,,5456.1,H. Michael Krimbill,Tulsa,Oklahoma
+443,DoorDash,DASH,Technology,Internet Services and Retailing,no,yes,no,yes,88,yes,no,yes,no,no,no,19300,55639.5,8635,31.2,-558,,10839,Tony Xu,San Francisco,California
+444,NOV,NOV,Energy,"Oil and Gas Equipment, Services",yes,no,no,yes,57,yes,no,yes,no,no,no,33676,7690.9,8583,18.6,993,540.6,11294,Clay C. Williams,Houston,Texas
+445,Zoetis,ZTS,Health Care,Pharmaceuticals,yes,no,yes,yes,18,yes,no,no,no,no,no,14100,77475.7,8544,5.7,2344,10.9,14286,Kristin C. Peck,Parsippany,New Jersey
+446,J.M. Smucker,SJM,"Food, Beverages & Tobacco",Food Consumer Products,no,no,no,no,19,yes,no,no,no,no,no,5800,13364.3,8529.2,6.6,-91.3,-114.5,14991.4,Mark T. Smucker,Orrville,Ohio
+447,Microchip Technology,MCHP,Technology,Semiconductors and Other Electronic Components,yes,no,no,yes,75,yes,no,yes,no,no,no,22600,48478.2,8438.7,23.7,2237.7,74.1,16370.3,Ganesh Moorthy,Chandler,Arizona
+448,Dover,DOV,Industrials,Industrial Machinery,yes,no,no,no,-3,no,yes,no,no,no,no,25000,24341.7,8438.1,-0.8,1056.8,-0.8,11348.5,Richard J. Tobin,Downers Grove,Illinois
+449,Diamondback Energy,FANG,Energy,"Mining, Crude-Oil Production",yes,no,no,yes,-49,no,yes,no,no,no,no,1023,35362.8,8412,-12.8,3143,-28.3,29001,Travis D. Stice,Midland,Texas
+450,Avery Dennison,AVY,Materials,"Packaging, Containers",yes,no,no,no,-29,no,yes,no,no,yes,no,35000,17976.2,8364.3,-7.5,503,-33.6,8209.8,Dean M. Stander,Mentor,Ohio
+451,PPL,PPL,Energy,Utilities: Gas and Electric,yes,no,no,yes,19,yes,no,no,no,no,no,6629,20306.2,8312,5.2,740,-2.1,39236,Vincent Sorgi,Allentown,Pennsylvania
+452,ON Semiconductor,ON,Technology,Semiconductors and Other Electronic Components,yes,no,no,no,2,yes,no,no,no,no,no,30050,31430,8253,-0.9,2183.7,14.8,13215.2,Hassane S. El-Khoury,Scottsdale,Arizona
+453,ARKO,ARKO,Retailing,Specialty Retailers: Other,yes,no,no,yes,7,yes,no,no,no,no,no,13481,662.2,8238.8,1.4,34.4,-52.1,3650.4,Arie Kotler,Richmond,Virginia
+454,Par Pacific Holdings,PARR,Energy,Petroleum Refining,yes,no,no,yes,38,yes,no,no,no,no,no,1814,2199.2,8232,12.4,728.6,100.1,3864,William  Monteleone,Houston,Texas
+455,APA,APA,Energy,"Mining, Crude-Oil Production",yes,no,no,no,-114,no,yes,no,no,no,no,2271,10367.4,8192,-32.5,2855,-22.3,15244,John J. Christmann IV,Houston,Texas
+456,Equinix,EQIX,Financials,Real estate,yes,no,no,yes,41,yes,no,no,no,no,no,13151,78093.9,8188.1,12.7,969.2,37.6,32650.7,Charles J. Meyers,Redwood City,California
+457,New York Community Bancorp,NYCB,Financials,Commercial Banks,no,no,no,yes,0,no,no,yes,no,no,no,8766,2569.3,8178,249.6,-79,-112.2,114057,Joseph M. Otting,Hicksville,New York
+458,Foot Locker,FL,Retailing,Specialty Retailers: Apparel,no,no,yes,no,-26,no,yes,no,no,no,no,30591,2693.1,8168,-6.7,-330,-196.5,6868,Mary N. Dillon,New York,New York
+459,Ingredion,INGR,"Food, Beverages & Tobacco",Food Production,yes,no,no,no,9,yes,no,no,no,yes,no,11600,7665.9,8160,2.7,643,30.7,7642,James P. Zallie,Westchester,Illinois
+460,Newell Brands,NWL,Household Products,"Home Equipment, Furnishings",no,no,no,no,-52,no,yes,no,no,yes,no,24600,3333.7,8133,-14,-388,-297,12163,Christopher H. Peterson,Atlanta,Georgia
+461,ABM Industries,ABM,Business Services,Diversified Outsourcing Services,yes,no,no,no,14,yes,no,no,no,no,no,123000,2824.1,8096.4,3.7,251.3,9.1,4933.7,Scott B. Salmirs,New York,New York
+462,Securian Financial Group,,Financials,"Insurance: Life, Health (stock)",yes,no,no,no,105,yes,no,yes,no,no,no,5565,,8067,30.6,226.6,,73457.5,Christopher M. Hilger,St. Paul,Minnesota
+463,Prologis,PLD,Financials,Real estate,yes,yes,no,yes,112,yes,no,yes,no,yes,no,2574,120459.8,8023.5,34.3,3059.2,-9.1,93020.8,Hamid R. Moghadam,San Francisco,California
+464,Blackstone,BX,Financials,Diversified Financials,yes,yes,no,yes,-20,no,yes,no,no,no,no,4735,93882.8,8022.8,-5.8,1390.9,-20.4,40287.5,Stephen A. Schwarzman,New York,New York
+465,Skechers U.S.A.,SKX,Apparel,Apparel,yes,yes,no,yes,23,yes,no,no,no,no,no,13550,9389.7,8000.3,7.5,545.8,46.3,7547.4,Robert Greenberg,Manhattan Beach,California
+466,Masco,MAS,Household Products,"Home Equipment, Furnishings",yes,no,no,no,-30,no,yes,no,no,no,no,18000,17335.1,7967,-8.2,908,7.6,5363,Keith J. Allman,Livonia,Michigan
+467,Rush Enterprises,RUSHB,Retailing,"Automotive Retailing, Services",yes,no,no,yes,40,yes,no,yes,no,no,no,8449,4164.4,7925,11.6,347.1,-11.3,4364.2,W.M. Rush,New Braunfels,Texas
+468,Franklin Resources,BEN,Financials,Securities,yes,no,yes,no,-12,no,yes,no,no,no,no,9200,14801.5,7849.4,-5.1,882.8,-31.7,30121.2,Jennifer M. Johnson,San Mateo,California
+469,ODP,ODP,Retailing,Specialty Retailers: Other,yes,no,no,no,-23,no,yes,no,no,no,no,20000,1942.6,7831,-7.8,139,-16.3,3886,Gerry P. Smith,Boca Raton,Florida
+470,American Financial Group,AFG,Financials,Insurance: Property and Casualty (Stock),yes,no,no,yes,40,yes,no,yes,no,no,no,8500,11418.1,7827,11.2,852,-5.1,29787,Carl H. Lindner lll/S. Craig Lindner,Cincinnati,Ohio
+471,Packaging Corp. of America,PKG,Materials,"Packaging, Containers",yes,no,no,no,-24,no,yes,no,no,yes,no,14900,17033.7,7802.4,-8,765.2,-25.7,8681.1,Mark W. Kowlzan,Lake Forest,Illinois
+472,Vulcan Materials,VMC,Materials,"Building Materials, Glass",yes,no,no,no,22,yes,no,no,no,no,no,10961,36099.6,7781.9,6.4,933.2,62.1,14545.7,J. Thomas Hill,Birmingham,Alabama
+473,Interactive Brokers Group,IBKR,Financials,Securities,yes,no,no,yes,263,yes,no,yes,no,no,no,2932,47328.3,7776,90.4,600,57.9,128423,Milan Galik,Greenwich,Connecticut
+474,Williams-Sonoma,WSM,Retailing,Specialty Retailers: Other,yes,no,yes,no,-37,no,yes,no,no,no,no,15000,20357.6,7750.7,-10.6,949.8,-15.8,5273.5,Laura J. Alber,San Francisco,California
+475,XPO,XPO,Transportation,Transportation and Logistics,yes,no,no,no,3,yes,no,no,no,no,no,39450,14169.3,7744,0.3,189,-71.6,7492,Mario A. Harik,Greenwich,Connecticut
+476,Weyerhaeuser,WY,Materials,Forest and Paper Products,yes,no,no,yes,-91,no,yes,no,no,no,no,9318,26200.5,7674,-24.6,839,-55.4,16983,Devin W. Stockfish,Seattle,Washington
+477,Genworth Financial,GNW,Financials,"Insurance: Life, Health (stock)",yes,no,no,yes,9,yes,no,no,no,no,no,2700,2825.7,7488,-0.3,76,-87.5,90817,Thomas J. McInerney,Richmond,Virginia
+478,CMS Energy,CMS,Energy,Utilities: Gas and Electric,yes,no,no,no,-37,no,yes,no,no,no,no,8356,18018.6,7462,-13.2,887,6,33517,Garrick J. Rochow,Jackson,Michigan
+479,Science Applications International,SAIC,Technology,Information Technology Services,yes,no,yes,no,0,no,no,no,no,yes,no,24000,6734.4,7444,-3.4,477,59,5314,Toni Townes-Whitley,Reston,Virginia
+480,Jefferies Financial Group,JEF,Financials,Diversified Financials,yes,no,no,yes,22,yes,no,yes,no,no,no,7564,9347.9,7441.4,4.1,277.7,-64.6,57905.2,Richard B. Handler,New York,New York
+481,Bath & Body Works,BBWI,Retailing,Specialty Retailers: Other,yes,no,yes,yes,1,yes,no,no,no,no,no,33069,11249.3,7429,-1.7,878,9.8,5463,Gina R. Boswell,Columbus,Ohio
+482,Electronic Arts,EA,Media,Entertainment,yes,no,no,yes,30,yes,no,yes,no,yes,no,13400,35469.4,7426,6.2,802,1.6,13459,Andrew Wilson,Redwood City,California
+483,Taylor Morrison Home,TMHC,Engineering & Construction,Homebuilders,yes,no,yes,no,-26,no,yes,no,no,no,no,2800,6616.7,7417.8,-9.8,768.9,-27,8672.1,Sheryl D. Palmer,Scottsdale,Arizona
+484,Zimmer Biomet Holdings,ZBH,Health Care,Medical Products and Equipment,yes,no,no,no,25,yes,no,yes,no,no,no,18000,27116.8,7394.2,4.3,1024,342.5,21496.9,Ivan Tornos,Warsaw,Indiana
+485,Clorox,CLX,Household Products,Household and Personal Products,yes,no,yes,no,20,yes,no,yes,no,no,no,8700,19001.9,7389,4,149,-67.7,5945,Linda Rendle,Oakland,California
+486,Xylem,XYL,Industrials,Industrial Machinery,yes,no,no,yes,117,yes,no,yes,no,no,no,23000,31246.4,7364,33.4,609,71.5,16112,Matthew F. Pine,Washington,District Of Columbia
+487,Voya Financial,VOYA,Financials,Diversified Financials,yes,no,yes,yes,92,yes,no,yes,no,no,no,9000,7510.9,7348,24.1,625,22.5,157085,Heather H. Lavallee,New York,New York
+488,Fastenal,FAST,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,26,yes,no,yes,no,yes,no,20721,44157,7346.7,5.2,1155,6.3,4462.9,Daniel L. Florness,Winona,Minnesota
+489,Watsco,WSO,Wholesalers,Wholesalers: Diversified,yes,no,no,yes,6,yes,no,no,no,no,no,7388,17061.3,7283.8,0.1,536.3,-10.8,3729.2,Albert H. Nahmad,Miami,Florida
+490,Workday,WDAY,Technology,Computer Software,yes,no,no,yes,72,yes,no,yes,no,yes,no,18800,72006,7259,16.8,1381,,16452,Carl M. Eschenbach,Pleasanton,California
+491,Old Republic International,ORI,Financials,Insurance: Property and Casualty (Stock),yes,no,no,no,-29,no,yes,no,no,no,no,9200,8463.5,7258.3,-10.2,598.6,-12.8,26501.4,Craig R. Smiddy,Chicago,Illinois
+492,RPM International,RPM,Chemicals,Chemicals,yes,no,no,yes,34,yes,no,yes,no,no,no,17274,15329.3,7256.4,8.2,478.7,-2.6,6782,Frank C. Sullivan,Medina,Ohio
+493,UFP Industries,UFPI,Materials,"Building Materials, Glass",yes,no,no,yes,-90,no,yes,no,no,no,no,15800,7568.8,7218.4,-25,514.3,-25.7,4017.8,Matthew J. Missad,Grand Rapids,Michigan
+494,Ameren,AEE,Energy,Utilities: Gas and Electric,yes,no,no,yes,-14,no,yes,no,no,no,no,9372,19711.1,7213,-5.9,1152,7.3,40830,Martin J. Lyons Jr.,St. Louis,Missouri
+495,Knight-Swift Transportation Hldgs.,KNX,Transportation,"Trucking, Truck Leasing",yes,no,no,yes,-5,no,yes,no,no,no,no,34550,8885.4,7141.8,-3.9,217.1,-71.8,12870.8,Adam W. Miller,Phoenix,Arizona
+496,Monster Beverage,MNST,"Food, Beverages & Tobacco",Beverages,yes,no,no,yes,60,yes,no,yes,no,no,no,5629,61688.9,7140,13.1,1631,36.9,9686.5,Rodney C. Sacks/Hilton H. Schlosberg,Corona,California
+497,Intuitive Surgical,ISRG,Health Care,Medical Products and Equipment,yes,no,no,yes,63,yes,no,yes,no,no,no,13676,141456.9,7124.1,14.5,1798,36,15441.5,Gary S. Guthart,Sunnyvale,California
+498,Super Micro Computer,SMCI,Technology,"Computers, Office Equipment",yes,yes,no,yes,138,yes,no,yes,no,no,no,5126,59137.7,7123.5,37.1,640,124.4,3674.7,Charles Liang,San Jose,California
+499,Concentrix,CNXC,Technology,Information Technology Services,yes,no,no,yes,54,yes,no,yes,no,no,no,440000,4342.2,7114.7,12.5,313.8,-27.9,12491.8,Christopher A. Caldwell,Newark,California
+500,O-I Glass,OI,Materials,"Packaging, Containers",no,no,no,no,19,yes,no,yes,no,no,no,23000,2549.4,7105,3.6,-103,-117.6,9669,Gordon J. Hardie,Perrysburg,Ohio
